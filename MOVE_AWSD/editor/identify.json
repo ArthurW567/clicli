@@ -1,0 +1,40 @@
+{
+ "ui_node": {
+  "default_black_background": 1318629419, 
+  "panel_1": 1633497707, 
+  "image_9": 1786232223, 
+  "button_8": 1680230893, 
+  "loss": 1202561002, 
+  "image_8": 1534840919, 
+  "button_6": 1248144844, 
+  "win": 1968542080, 
+  "SceneUI": 1868907407, 
+  "loading_background": 1476300620, 
+  "loading_bar_percent": 1489677794, 
+  "label_percent": 1914636708, 
+  "loading...": 1430814833, 
+  "LoadingPanel": 2096087779, 
+  "ui_view_draging_comp_1": 1199595017, 
+  "layout_1": 1539014449, 
+  "button_1": 1843721077, 
+  "ui_view_draging_comp_2": 2140772119, 
+  "image_1": 1072485659, 
+  "button_2": 1639386177, 
+  "label_1": 1412653815
+ }, 
+ "tv1": {
+  "BoolKey": 1164230564, 
+  "moveX": 1991468849, 
+  "moveY": 1084323384, 
+  "unittype": 1897755626, 
+  "test": 1541029523, 
+  "moveZ": 2018152306, 
+  "angle": 1508882949, 
+  "moveAngle": 2110234594, 
+  "Command Mode": 1830401457, 
+  "moveAngleTemp": 1281591363, 
+  "CommandMode": 1488487116, 
+  "CommandModeTemp": 1333514473, 
+  "unitHero": 1727213496
+ }
+}

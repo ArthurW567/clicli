@@ -1,0 +1,68 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "comp_anims": [], 
+            "event_list": [], 
+            "image": 106330, 
+            "name": "image_8", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    637.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    50.0, 
+                    58.98148148148148
+                ]
+            }, 
+            "size": [
+                695.0625, 
+                418.5
+            ], 
+            "type": 4, 
+            "uid": "image_8"
+        }, 
+        {
+            "children": [], 
+            "comp_anims": [], 
+            "event_list": [
+                {
+                    "action_list": [], 
+                    "enabled": true, 
+                    "name": "Victory_Back_Hall", 
+                    "sound_id": null, 
+                    "type": 11
+                }
+            ], 
+            "name": "button_6", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    429.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    50.0, 
+                    39.72222222222222
+                ]
+            }, 
+            "type": 1, 
+            "uid": "button_6"
+        }
+    ], 
+    "editor_visible": false, 
+    "name": "win", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "uid": "win", 
+    "visible": true, 
+    "zorder": 400
+}
