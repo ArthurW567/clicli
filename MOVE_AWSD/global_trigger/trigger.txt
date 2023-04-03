@@ -41,6 +41,20 @@
                 594067464, 
                 "\u65b0\u5efa\u89e6\u53d1\u5668_2"
             ]
+        }, 
+        "7": {
+            "__tuple__": true, 
+            "items": [
+                812810249, 
+                "\u65b0\u5efa\u51fd\u6570"
+            ]
+        }, 
+        "8": {
+            "__tuple__": true, 
+            "items": [
+                326344714, 
+                "Z01.Write unit information"
+            ]
         }
     }
 }

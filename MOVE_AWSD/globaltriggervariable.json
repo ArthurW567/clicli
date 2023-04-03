@@ -1,5 +1,28 @@
 {
     "local_variable": {
+        "326344714": {
+            "variable_dict": {
+                "INTEGER": {
+                    "IconKey": 0
+                }, 
+                "STRING": {
+                    "TalkKey": ""
+                }, 
+                "UNIT_ENTITY": {
+                    "NPC": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "IconKey": 0, 
+                "NPC": 0, 
+                "TalkKey": 0
+            }, 
+            "variable_type_dict": {
+                "IconKey": false, 
+                "NPC": false, 
+                "TalkKey": false
+            }
+        }, 
         "641339403": {
             "variable_dict": {
                 "INTEGER": {
@@ -62,7 +85,9 @@
     "variable_comments": {}, 
     "variable_dict": {
         "BOOLEAN": {
-            "BoolKey": false
+            "BoolKey": false, 
+            "ChatState": false, 
+            "Switch": false
         }, 
         "FLOAT": {
             "moveAngle": 0.0, 
@@ -138,12 +163,28 @@
                 "moveZ", 
                 "(moveZ)"
             ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "ChatState", 
+                "ChatState"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "Switch", 
+                "Switch"
+            ]
         }
     ], 
     "variable_length_dict": {
         "BoolKey": 10, 
+        "ChatState": 0, 
         "CommandMode": 0, 
         "CommandModeTemp": 0, 
+        "Switch": 0, 
         "moveAngle": 0, 
         "moveAngleTemp": 0, 
         "moveX": 0, 
@@ -152,8 +193,10 @@
     }, 
     "variable_type_dict": {
         "BoolKey": true, 
+        "ChatState": false, 
         "CommandMode": false, 
         "CommandModeTemp": false, 
+        "Switch": false, 
         "moveAngle": false, 
         "moveAngleTemp": false, 
         "moveX": false, 
