@@ -80,6 +80,40 @@
                 "speed": false, 
                 "unit": false
             }
+        }, 
+        "1473126409": {
+            "variable_dict": {
+                "FLOAT": {
+                    "distance": 0.0
+                }
+            }, 
+            "variable_length_dict": {
+                "distance": 0
+            }, 
+            "variable_type_dict": {
+                "distance": false
+            }
+        }, 
+        "1504256008": {
+            "variable_dict": {
+                "FLOAT": {
+                    "distance": 0.0
+                }, 
+                "UNIT_ENTITY": {
+                    "NPC": 0, 
+                    "hero": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "NPC": 0, 
+                "distance": 0, 
+                "hero": 0
+            }, 
+            "variable_type_dict": {
+                "NPC": false, 
+                "distance": false, 
+                "hero": false
+            }
         }
     }, 
     "variable_comments": {}, 

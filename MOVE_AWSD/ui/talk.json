@@ -1,0 +1,55 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "comp_anims": [], 
+            "event_list": [], 
+            "name": "image_1", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    555.21337890625, 
+                    746.752685546875
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    28.91736348470052, 
+                    69.1437671802662
+                ]
+            }, 
+            "type": 4, 
+            "uid": "de9babad-09ea-4d5a-bf17-098fdec1a0e0"
+        }, 
+        {
+            "children": [], 
+            "comp_anims": [], 
+            "event_list": [], 
+            "name": "label_1", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    555.0, 
+                    540.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    28.90625, 
+                    50.0
+                ]
+            }, 
+            "type": 3, 
+            "uid": "58efbd1a-c203-470a-9a11-e5d510b511de"
+        }
+    ], 
+    "editor_visible": false, 
+    "name": "talk", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "uid": "809eb0f8-e43f-4306-a62f-8aefbe2e4de5", 
+    "visible": true, 
+    "zorder": 400
+}

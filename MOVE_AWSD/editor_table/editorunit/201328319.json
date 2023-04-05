@@ -167,7 +167,19 @@
     "is_shop": false, 
     "keep_dead_body_time": 2, 
     "key": 201328319, 
-    "kv": {}, 
+    "kv": {
+        "Talk": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 0, 
+            "key": "Talk", 
+            "prop_cls": "PText", 
+            "remark": "", 
+            "sort": 0, 
+            "type": 0, 
+            "value": "\u57fa\u5c3c\u592a\u7f8e"
+        }
+    }, 
     "level": 1, 
     "logic_rotate_speed_valid": false, 
     "logic_upper_rotate_speed_valid": false, 
