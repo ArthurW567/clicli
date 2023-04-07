@@ -1,29 +1,50 @@
 {
-    "281944074": {
+    "357154830": {
         "action": [
             {
-                "action_type": "SET_VARIABLE", 
+                "action_type": "CALL_TRIGGER_FUNC", 
                 "args_list": [
                     {
-                        "arg_type": 100030, 
+                        "arg_type": 100177, 
                         "args_list": [
-                            [
-                                "BOOLEAN", 
-                                "Switch"
-                            ]
+                            {
+                                "arg_type": 100003, 
+                                "args_list": [
+                                    "1"
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "op_arg": [], 
+                        "op_arg_enable": [], 
+                        "sub_type": "c1896d00d53711ed9aa658a023d53bcc"
+                    }
+                ], 
+                "bp": false, 
+                "call_rt_arg_idxes": [], 
+                "element_id": 357154830000023, 
+                "enable": true
+            }, 
+            {
+                "action_type": "PRINT_MESSAGE_ACTION_TO_DIALOG", 
+                "args_list": [
+                    {
+                        "arg_type": 100175, 
+                        "args_list": [
+                            3
                         ], 
                         "sub_type": 1
                     }, 
                     {
-                        "arg_type": 100001, 
+                        "arg_type": 100003, 
                         "args_list": [
-                            true
+                            "1"
                         ], 
                         "sub_type": 1
                     }
                 ], 
                 "bp": false, 
-                "element_id": 281944074000002, 
+                "element_id": 357154830000031, 
                 "enable": true
             }
         ], 
@@ -36,21 +57,74 @@
                     {
                         "arg_type": 100067, 
                         "args_list": [
-                            "button_1_0"
+                            "button_10_0"
                         ], 
                         "sub_type": 1
                     }
                 ], 
-                "element_id": 281944074000001, 
+                "element_id": 357154830000019, 
                 "enable": true, 
                 "event_type": "TRIGGER_COMPONENT_EVENT"
             }
         ], 
-        "group_id": "XvKngNOHEe2iH1igI9U7zO", 
+        "group_id": 0, 
         "p_trigger_id": null, 
         "script": "", 
-        "trigger_id": 281944074, 
-        "trigger_name": "B02.UIExit", 
+        "trigger_id": 357154830, 
+        "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
+        "valid": true
+    }, 
+    "727236623": {
+        "action": [
+            {
+                "action_type": "CALL_TRIGGER_FUNC", 
+                "args_list": [
+                    {
+                        "arg_type": 100177, 
+                        "args_list": [
+                            {
+                                "arg_type": 100003, 
+                                "args_list": [
+                                    "2"
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "op_arg": [], 
+                        "op_arg_enable": [], 
+                        "sub_type": "c1896d00d53711ed9aa658a023d53bcc"
+                    }
+                ], 
+                "bp": false, 
+                "call_rt_arg_idxes": [], 
+                "element_id": 727236623000005, 
+                "enable": true
+            }
+        ], 
+        "comment_str": {}, 
+        "condition": [], 
+        "enabled": true, 
+        "event": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 100067, 
+                        "args_list": [
+                            "button_11_0"
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "element_id": 727236623000002, 
+                "enable": true, 
+                "event_type": "TRIGGER_COMPONENT_EVENT"
+            }
+        ], 
+        "group_id": 0, 
+        "p_trigger_id": null, 
+        "script": "", 
+        "trigger_id": 727236623, 
+        "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668_2", 
         "valid": true
     }, 
     "1099108365": {

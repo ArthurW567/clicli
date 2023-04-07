@@ -98,9 +98,16 @@
                                                 {
                                                     "arg_type": 100003, 
                                                     "args_list": [
-                                                        "Talk"
+                                                        {
+                                                            "__tuple__": true, 
+                                                            "items": [
+                                                                "STRING", 
+                                                                "TalkKey", 
+                                                                "local"
+                                                            ]
+                                                        }
                                                     ], 
-                                                    "sub_type": 1
+                                                    "sub_type": 2
                                                 }
                                             ], 
                                             "sub_type": "GET_STRING_KV"

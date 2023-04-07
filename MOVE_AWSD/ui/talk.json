@@ -20,7 +20,8 @@
                 ]
             }, 
             "type": 4, 
-            "uid": "de9babad-09ea-4d5a-bf17-098fdec1a0e0"
+            "uid": "de9babad-09ea-4d5a-bf17-098fdec1a0e0", 
+            "visible": false
         }, 
         {
             "children": [], 
@@ -42,7 +43,8 @@
                 ]
             }, 
             "type": 3, 
-            "uid": "58efbd1a-c203-470a-9a11-e5d510b511de"
+            "uid": "58efbd1a-c203-470a-9a11-e5d510b511de", 
+            "visible": false
         }
     ], 
     "editor_visible": false, 

@@ -114,6 +114,29 @@
                 "distance": false, 
                 "hero": false
             }
+        }, 
+        "1596440589": {
+            "variable_dict": {
+                "ABILITY": {
+                    "\u5b66\u4e60\u6280\u80fd": null
+                }, 
+                "ABILITY_NAME": {
+                    "\u83b7\u5f97\u6280\u80fd": 0
+                }, 
+                "STRING": {
+                    "\u6280\u80fd": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "\u5b66\u4e60\u6280\u80fd": 0, 
+                "\u6280\u80fd": 0, 
+                "\u83b7\u5f97\u6280\u80fd": 0
+            }, 
+            "variable_type_dict": {
+                "\u5b66\u4e60\u6280\u80fd": false, 
+                "\u6280\u80fd": false, 
+                "\u83b7\u5f97\u6280\u80fd": false
+            }
         }
     }, 
     "variable_comments": {}, 

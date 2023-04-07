@@ -480,6 +480,168 @@
             "trigger_id": 941998095, 
             "trigger_name": "Y01\uff1a\u5224\u65ad\u547d\u4ee4\u4e32\u662f\u5426\u66f4\u6539", 
             "valid": true
+        }, 
+        "1596440589": {
+            "action": [
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100030, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "ABILITY_NAME", 
+                                        "\u83b7\u5f97\u6280\u80fd", 
+                                        "local"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100039, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100011, 
+                                    "args_list": [
+                                        1
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100003, 
+                                    "args_list": [
+                                        {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                "STRING", 
+                                                "\u6280\u80fd", 
+                                                "local"
+                                            ]
+                                        }
+                                    ], 
+                                    "sub_type": 2
+                                }
+                            ], 
+                            "sub_type": "GET_ABILITY_NAME_TABLE_VAR_1D"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1596440589000013, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "PRINT_MESSAGE_ACTION_TO_DIALOG", 
+                    "args_list": [
+                        {
+                            "arg_type": 100175, 
+                            "args_list": [
+                                3
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100011, 
+                                    "args_list": [
+                                        1
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100003, 
+                                    "args_list": [
+                                        "1"
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": "GET_STRING_TABLE_VAR_1D"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1596440589000040, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "UNIT_ADD_ABILITY", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100182, 
+                            "args_list": [
+                                3
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100039, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "ABILITY_NAME", 
+                                        "\u83b7\u5f97\u6280\u80fd", 
+                                        "local"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": "VARIABLE"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1596440589000031, 
+                    "enable": true, 
+                    "op_arg": [
+                        null, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "op_arg_enable": [
+                        false, 
+                        true
+                    ]
+                }
+            ], 
+            "comment_str": {}, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [], 
+            "func_des": "\u51fd\u6570\u63cf\u8ff0{\u6280\u80fd}", 
+            "func_id": "c1896d00d53711ed9aa658a023d53bcc", 
+            "func_name": "\u83b7\u5f97\u6280\u80fd", 
+            "func_param_list": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u6280\u80fd", 
+                        true
+                    ]
+                }
+            ], 
+            "group_id": "sLBdHu4IEeyHgHC16EKB6m", 
+            "is_func": true, 
+            "is_official_func": false, 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 1596440589, 
+            "trigger_name": "\u83b7\u5f97\u6280\u80fd", 
+            "valid": true
         }
     }, 
     "trigger_group_info": {
@@ -491,6 +653,13 @@
                 "items": [
                     941998095, 
                     "Y01\uff1a\u5224\u65ad\u547d\u4ee4\u4e32\u662f\u5426\u66f4\u6539"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    1596440589, 
+                    "\u83b7\u5f97\u6280\u80fd"
                 ]
             }
         ], 
