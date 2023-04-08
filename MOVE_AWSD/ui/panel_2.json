@@ -439,6 +439,7 @@
                     31.944444444444443
                 ]
             }, 
+            "short_cut": 2, 
             "skill_cd_label": "aee2b7bb-9641-4e2d-be0e-c4dd357531f4", 
             "skill_cd_progress": "d82d2a32-a5e4-4b63-af49-11d11d4b0f13", 
             "skill_consume_mask_img": "0750ed58-32cb-4763-8435-50ada22be94c", 

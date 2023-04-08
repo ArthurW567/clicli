@@ -743,6 +743,28 @@
                 "bp": false, 
                 "element_id": 14870405130028, 
                 "enable": true
+            }, 
+            {
+                "action_type": "SELECT_UNIT", 
+                "args_list": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100006, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1487040513777175, 
+                "enable": true
             }
         ], 
         "comment_str": {

@@ -62,7 +62,7 @@
             "uid": "dbc7d2d2-af6c-43cf-bb5d-97606c65b612"
         }
     ], 
-    "editor_visible": false, 
+    "editor_visible": true, 
     "name": "tree", 
     "opacity": 1.0, 
     "type": 2, 
