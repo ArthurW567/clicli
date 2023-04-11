@@ -2277,7 +2277,7 @@
             "uid": "63017c46-b1ca-4dd2-af0b-048484783fe8"
         }
     ], 
-    "editor_visible": false, 
+    "editor_visible": true, 
     "name": "panel_2", 
     "opacity": 1.0, 
     "type": 2, 
