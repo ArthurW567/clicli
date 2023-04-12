@@ -172,171 +172,6 @@
         "trigger_name": "\u6e38\u620f\u5f00\u59cb", 
         "valid": true
     }, 
-    "1379831820": {
-        "action": [
-            {
-                "action_type": "PRINT_MESSAGE_ACTION_TO_DIALOG", 
-                "args_list": [
-                    {
-                        "arg_type": 100175, 
-                        "args_list": [
-                            3
-                        ], 
-                        "sub_type": 1
-                    }, 
-                    {
-                        "arg_type": 100003, 
-                        "args_list": [
-                            "DEBUG"
-                        ], 
-                        "sub_type": 1
-                    }
-                ], 
-                "bp": false, 
-                "element_id": 18123284500020, 
-                "enable": true
-            }, 
-            {
-                "action_type": "PRINT_MESSAGE_ACTION_TO_DIALOG", 
-                "args_list": [
-                    {
-                        "arg_type": 100175, 
-                        "args_list": [
-                            3
-                        ], 
-                        "sub_type": 1
-                    }, 
-                    {
-                        "arg_type": 100003, 
-                        "args_list": [
-                            {
-                                "arg_type": 100003, 
-                                "args_list": [
-                                    "moveX\uff1a"
-                                ], 
-                                "sub_type": 1
-                            }, 
-                            {
-                                "arg_type": 100003, 
-                                "args_list": [
-                                    {
-                                        "arg_type": 100002, 
-                                        "args_list": [
-                                            {
-                                                "__tuple__": true, 
-                                                "items": [
-                                                    "INTEGER", 
-                                                    "moveX"
-                                                ]
-                                            }, 
-                                            null
-                                        ], 
-                                        "sub_type": 6
-                                    }
-                                ], 
-                                "sub_type": "VALUE_TO_STR"
-                            }
-                        ], 
-                        "sub_type": "STR_JOIN"
-                    }
-                ], 
-                "bp": false, 
-                "element_id": 6413394030018, 
-                "enable": true
-            }, 
-            {
-                "action_type": "SET_VARIABLE", 
-                "args_list": [
-                    {
-                        "arg_type": 100030, 
-                        "args_list": [
-                            [
-                                "FLOAT", 
-                                "angle", 
-                                "local"
-                            ]
-                        ], 
-                        "sub_type": 1
-                    }, 
-                    {
-                        "arg_type": 100000, 
-                        "args_list": [
-                            {
-                                "arg_type": 100225, 
-                                "args_list": [
-                                    {
-                                        "arg_type": 100004, 
-                                        "args_list": [
-                                            {
-                                                "arg_type": 100000, 
-                                                "args_list": [
-                                                    0.0
-                                                ], 
-                                                "sub_type": 1
-                                            }, 
-                                            {
-                                                "arg_type": 100000, 
-                                                "args_list": [
-                                                    0.0
-                                                ], 
-                                                "sub_type": 1
-                                            }
-                                        ], 
-                                        "sub_type": "FLOAT_TO_POINT"
-                                    }, 
-                                    {
-                                        "arg_type": 100004, 
-                                        "args_list": [
-                                            {
-                                                "arg_type": 100000, 
-                                                "args_list": [
-                                                    [
-                                                        "FLOAT", 
-                                                        "x", 
-                                                        "local"
-                                                    ], 
-                                                    null
-                                                ], 
-                                                "sub_type": 2
-                                            }, 
-                                            {
-                                                "arg_type": 100000, 
-                                                "args_list": [
-                                                    [
-                                                        "FLOAT", 
-                                                        "z", 
-                                                        "local"
-                                                    ], 
-                                                    null
-                                                ], 
-                                                "sub_type": 2
-                                            }
-                                        ], 
-                                        "sub_type": "FLOAT_TO_POINT"
-                                    }
-                                ], 
-                                "sub_type": "GET_POINTS_ANGLE"
-                            }
-                        ], 
-                        "sub_type": "GET_FLOAT_BY_ANGLE"
-                    }
-                ], 
-                "bp": false, 
-                "element_id": 20770939020004, 
-                "enable": true
-            }
-        ], 
-        "comment_str": {}, 
-        "condition": [], 
-        "enabled": false, 
-        "event": [], 
-        "group_id": 0, 
-        "p_trigger_id": null, 
-        "script": "", 
-        "trigger_id": 1379831820, 
-        "trigger_name": "\u5e38\u7528\u8bed\u53e5", 
-        "valid": false
-    }, 
     "1473126409": {
         "action": [
             {
@@ -352,7 +187,7 @@
                     {
                         "arg_type": 100006, 
                         "args_list": [
-                            2
+                            7
                         ], 
                         "sub_type": 1
                     }
@@ -476,7 +311,7 @@
                                             {
                                                 "arg_type": 100006, 
                                                 "args_list": [
-                                                    2
+                                                    7
                                                 ], 
                                                 "sub_type": 1
                                             }
@@ -561,7 +396,7 @@
                                     {
                                         "arg_type": 100006, 
                                         "args_list": [
-                                            2
+                                            7
                                         ], 
                                         "sub_type": 1
                                     }
@@ -586,7 +421,7 @@
                     {
                         "arg_type": 100006, 
                         "args_list": [
-                            2
+                            7
                         ], 
                         "sub_type": 1
                     }, 
@@ -697,7 +532,7 @@
                     {
                         "arg_type": 100006, 
                         "args_list": [
-                            2
+                            1
                         ], 
                         "sub_type": 1
                     }
@@ -735,7 +570,7 @@
                     {
                         "arg_type": 100006, 
                         "args_list": [
-                            2
+                            1
                         ], 
                         "sub_type": 1
                     }

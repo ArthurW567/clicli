@@ -568,54 +568,125 @@
                     "enable": true
                 }, 
                 {
-                    "action_type": "UNIT_ADD_ABILITY", 
+                    "action_type": "IF_THEN_ELSE", 
                     "args_list": [
                         {
-                            "arg_type": 100006, 
-                            "args_list": [
-                                1
-                            ], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100182, 
-                            "args_list": [
-                                3
-                            ], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100039, 
+                            "arg_type": 100021, 
                             "args_list": [
                                 {
-                                    "__tuple__": true, 
-                                    "items": [
-                                        "ABILITY_NAME", 
-                                        "\u83b7\u5f97\u6280\u80fd", 
-                                        "local"
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100006, 
+                                            "args_list": [
+                                                1
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100039, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "ABILITY_NAME", 
+                                                        "\u83b7\u5f97\u6280\u80fd", 
+                                                        "local"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": "VARIABLE"
+                                        }
+                                    ], 
+                                    "condition_type": "CHECK_HAS_ABILITY_TYPE", 
+                                    "element_id": 1596440589000049, 
+                                    "enable": true
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [
+                                {
+                                    "action_type": "UNIT_ADD_ABILITY", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100006, 
+                                            "args_list": [
+                                                1
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100182, 
+                                            "args_list": [
+                                                3
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100039, 
+                                            "args_list": [
+                                                [
+                                                    "ABILITY_NAME", 
+                                                    "\u83b7\u5f97\u6280\u80fd", 
+                                                    "local"
+                                                ]
+                                            ], 
+                                            "sub_type": "VARIABLE"
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 1596440589000031, 
+                                    "enable": true, 
+                                    "op_arg": [
+                                        null, 
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                1
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "op_arg_enable": [
+                                        false, 
+                                        true
+                                    ]
+                                }, 
+                                {
+                                    "action_type": "SET_UI_COMP_BIND_ATTR", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100025, 
+                                            "args_list": [
+                                                1
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 1596440589000052, 
+                                    "enable": true, 
+                                    "op_arg": [
+                                        null
+                                    ], 
+                                    "op_arg_enable": [
+                                        false
                                     ]
                                 }
                             ], 
-                            "sub_type": "VARIABLE"
-                        }
-                    ], 
-                    "bp": false, 
-                    "element_id": 1596440589000031, 
-                    "enable": true, 
-                    "op_arg": [
-                        null, 
-                        {
-                            "arg_type": 100002, 
-                            "args_list": [
-                                1
-                            ], 
                             "sub_type": 1
                         }
                     ], 
-                    "op_arg_enable": [
-                        false, 
-                        true
-                    ]
+                    "bp": false, 
+                    "element_id": 1596440589000043, 
+                    "enable": true
                 }
             ], 
             "comment_str": {}, 
@@ -641,7 +712,7 @@
             "script": "", 
             "trigger_id": 1596440589, 
             "trigger_name": "\u83b7\u5f97\u6280\u80fd", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": {

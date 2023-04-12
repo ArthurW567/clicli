@@ -101,7 +101,7 @@
     "critical_dmg_grow": 0, 
     "custom_1": 0, 
     "custom_1_grow": 0, 
-    "default_behaviour_type": "defense", 
+    "default_behaviour_type": "", 
     "defense_mag": 10, 
     "defense_mag_grow": 5, 
     "defense_phy": 10, 

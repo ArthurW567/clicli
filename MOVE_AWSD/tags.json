@@ -1,6 +1,7 @@
 {
     "ability_all": [], 
     "editor_decoration": [], 
+    "editor_item": [], 
     "editor_unit": [
         "warrior"
     ], 

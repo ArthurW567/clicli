@@ -23,7 +23,7 @@
                         ]
                     }, 
                     "type": 4, 
-                    "uid": "522a472a-b4a2-4bb6-9e25-0060cbf54339"
+                    "uid": "8486230c-0256-4dcb-8317-0c615d4e97cf"
                 }, 
                 {
                     "children": [], 
@@ -53,7 +53,7 @@
                         ]
                     }, 
                     "type": 4, 
-                    "uid": "e8985492-26bc-4dd8-aa52-efd7b61910fa"
+                    "uid": "23fff3a1-8de8-4b3b-9140-3f7fef9c4ef6"
                 }, 
                 {
                     "adapter_option": [
@@ -97,7 +97,7 @@
                         ]
                     }, 
                     "type": 5, 
-                    "uid": "d82d2a32-a5e4-4b63-af49-11d11d4b0f13"
+                    "uid": "4906528f-220f-4d81-9a22-14e8354b61d2"
                 }, 
                 {
                     "alignment": {
@@ -136,7 +136,7 @@
                         ]
                     }, 
                     "type": 3, 
-                    "uid": "aee2b7bb-9641-4e2d-be0e-c4dd357531f4"
+                    "uid": "247954c0-afd5-4350-a6c4-6c6d9e7ebfe1"
                 }, 
                 {
                     "children": [], 
@@ -179,7 +179,7 @@
                         ]
                     }, 
                     "type": 3, 
-                    "uid": "6ab1e8ad-68ff-4419-bec4-fc2cf033c985"
+                    "uid": "a758432c-86d4-478c-989b-19c317a5db39"
                 }, 
                 {
                     "adapter_option": [
@@ -232,57 +232,7 @@
                         ]
                     }, 
                     "type": 3, 
-                    "uid": "5b4bbfff-ebe8-4b6b-8142-0982698ee808"
-                }, 
-                {
-                    "adapter_option": [
-                        false, 
-                        false, 
-                        false, 
-                        false, 
-                        -55.0, 
-                        97.0, 
-                        19.0, 
-                        23.0
-                    ], 
-                    "children": [], 
-                    "comp_anims": [], 
-                    "disabled_picture": null, 
-                    "event_list": [], 
-                    "name": "button_5", 
-                    "normal_picture": 100350, 
-                    "normal_text": {
-                        "__tuple__": true, 
-                        "items": [
-                            " ", 
-                            false
-                        ]
-                    }, 
-                    "pos": {
-                        "__tuple__": true, 
-                        "items": [
-                            50.0, 
-                            148.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
-                            50.0, 
-                            148.0
-                        ]
-                    }, 
-                    "press_picture": 100351, 
-                    "size": {
-                        "__tuple__": true, 
-                        "items": [
-                            58.0, 
-                            58.0
-                        ]
-                    }, 
-                    "suspend_picture": 100350, 
-                    "type": 1, 
-                    "uid": "67c96d3b-787b-4851-b76f-073d75e2d288"
+                    "uid": "b2b475d9-8ef4-408c-b310-d51cc996acba"
                 }, 
                 {
                     "adapter_option": [
@@ -335,7 +285,7 @@
                         ]
                     }, 
                     "type": 3, 
-                    "uid": "55170613-8487-48b2-b543-88d31ef54281"
+                    "uid": "0127b1d2-65e1-46d0-80e1-f24f22f62d3c"
                 }, 
                 {
                     "adapter_option": [
@@ -377,7 +327,7 @@
                         ]
                     }, 
                     "type": 4, 
-                    "uid": "0750ed58-32cb-4763-8435-50ada22be94c"
+                    "uid": "fea034a1-6ad5-43ad-b7d8-0c9da13e79c5"
                 }, 
                 {
                     "adapter_option": [
@@ -419,7 +369,7 @@
                         ]
                     }, 
                     "type": 4, 
-                    "uid": "75665b0b-ecd8-4f3e-b01f-1526ee83c9f5"
+                    "uid": "88c41f5a-d4be-4a4d-9294-54db0b4f6c7d"
                 }
             ], 
             "comp_anims": [], 
@@ -428,33 +378,33 @@
             "pos": {
                 "__tuple__": true, 
                 "items": [
-                    1068.0, 
-                    345.0
+                    650.0, 
+                    200.0
                 ]
             }, 
             "pos_percent": {
                 "__tuple__": true, 
                 "items": [
-                    55.625, 
-                    31.944444444444443
+                    33.85416666666667, 
+                    18.51851851851852
                 ]
             }, 
             "short_cut": 2, 
-            "skill_cd_label": "aee2b7bb-9641-4e2d-be0e-c4dd357531f4", 
-            "skill_cd_progress": "d82d2a32-a5e4-4b63-af49-11d11d4b0f13", 
-            "skill_consume_mask_img": "0750ed58-32cb-4763-8435-50ada22be94c", 
-            "skill_disable_img": "75665b0b-ecd8-4f3e-b01f-1526ee83c9f5", 
-            "skill_frame_img": "522a472a-b4a2-4bb6-9e25-0060cbf54339", 
-            "skill_icon_img": "e8985492-26bc-4dd8-aa52-efd7b61910fa", 
-            "skill_level_label": "6ab1e8ad-68ff-4419-bec4-fc2cf033c985", 
-            "skill_shortcut_label": "55170613-8487-48b2-b543-88d31ef54281", 
-            "skill_stack_label": "5b4bbfff-ebe8-4b6b-8142-0982698ee808", 
+            "skill_cd_label": "247954c0-afd5-4350-a6c4-6c6d9e7ebfe1", 
+            "skill_cd_progress": "4906528f-220f-4d81-9a22-14e8354b61d2", 
+            "skill_consume_mask_img": "fea034a1-6ad5-43ad-b7d8-0c9da13e79c5", 
+            "skill_disable_img": "88c41f5a-d4be-4a4d-9294-54db0b4f6c7d", 
+            "skill_frame_img": "8486230c-0256-4dcb-8317-0c615d4e97cf", 
+            "skill_icon_img": "23fff3a1-8de8-4b3b-9140-3f7fef9c4ef6", 
+            "skill_level_label": "a758432c-86d4-478c-989b-19c317a5db39", 
+            "skill_shortcut_label": "0127b1d2-65e1-46d0-80e1-f24f22f62d3c", 
+            "skill_stack_label": "b2b475d9-8ef4-408c-b310-d51cc996acba", 
             "skill_type": 3, 
-            "skill_upgrade_btn": "67c96d3b-787b-4851-b76f-073d75e2d288", 
+            "skill_upgrade_btn": "none_ref", 
             "slot_id": 1, 
             "swallow_touches": true, 
             "type": 17, 
-            "uid": "670232ed-cf3f-4b3b-92d3-6cd52f0ef998"
+            "uid": "1aaf7ace-c7f3-4a5b-80ce-7361aabc4258"
         }, 
         {
             "children": [
@@ -467,8 +417,15 @@
                     "pos": {
                         "__tuple__": true, 
                         "items": [
-                            50.0, 
-                            50.0
+                            50.00006103515625, 
+                            49.9998779296875
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.00006103515625, 
+                            49.9998779296875
                         ]
                     }, 
                     "size": {
@@ -479,7 +436,7 @@
                         ]
                     }, 
                     "type": 4, 
-                    "uid": "1ec9640e-a8fa-45b0-a374-20d0e8b71b74"
+                    "uid": "191ddb38-4b83-4bc5-95c8-5adc443546c5"
                 }, 
                 {
                     "children": [], 
@@ -490,15 +447,15 @@
                     "pos": {
                         "__tuple__": true, 
                         "items": [
-                            51.0, 
-                            50.0
+                            51.00006103515625, 
+                            49.9998779296875
                         ]
                     }, 
                     "pos_percent": {
                         "__tuple__": true, 
                         "items": [
-                            51.0, 
-                            50.0
+                            51.00006103515625, 
+                            49.9998779296875
                         ]
                     }, 
                     "size": {
@@ -509,7 +466,7 @@
                         ]
                     }, 
                     "type": 4, 
-                    "uid": "ddfe49e8-9f29-43a3-9a07-7a315517012a"
+                    "uid": "9c0db47b-2753-4499-91f6-5db903cd591a"
                 }, 
                 {
                     "adapter_option": [
@@ -540,8 +497,15 @@
                     "pos": {
                         "__tuple__": true, 
                         "items": [
-                            50.0, 
-                            50.0
+                            50.00006103515625, 
+                            49.9998779296875
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.00006103515625, 
+                            49.9998779296875
                         ]
                     }, 
                     "progress_type": 0, 
@@ -553,7 +517,7 @@
                         ]
                     }, 
                     "type": 5, 
-                    "uid": "8afd93f1-6b7a-4a2b-b090-9acea68dfca0"
+                    "uid": "e29930ac-c34a-419e-90e7-8899bf7e9fcb"
                 }, 
                 {
                     "alignment": {
@@ -580,8 +544,15 @@
                     "pos": {
                         "__tuple__": true, 
                         "items": [
-                            50.0, 
-                            50.0
+                            50.00006103515625, 
+                            49.9998779296875
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.00006103515625, 
+                            49.9998779296875
                         ]
                     }, 
                     "text": {
@@ -592,7 +563,7 @@
                         ]
                     }, 
                     "type": 3, 
-                    "uid": "54eb0863-c7c1-46b2-9c99-a8e63a4e2d16"
+                    "uid": "21f06c40-2bb3-4f46-8277-8d3a4fbf1662"
                 }, 
                 {
                     "children": [], 
@@ -635,7 +606,7 @@
                         ]
                     }, 
                     "type": 3, 
-                    "uid": "5492d58c-5480-4cb4-a54b-9725b5accbcc"
+                    "uid": "608bde79-e6ae-449c-8de6-41d48daa1b2f"
                 }, 
                 {
                     "adapter_option": [
@@ -662,15 +633,15 @@
                     "pos": {
                         "__tuple__": true, 
                         "items": [
-                            95.0, 
-                            17.0
+                            95.00006103515625, 
+                            16.99981689453125
                         ]
                     }, 
                     "pos_percent": {
                         "__tuple__": true, 
                         "items": [
-                            95.0, 
-                            17.0
+                            95.00006103515625, 
+                            16.99981689453125
                         ]
                     }, 
                     "size": {
@@ -688,57 +659,7 @@
                         ]
                     }, 
                     "type": 3, 
-                    "uid": "5efcc07c-7283-4769-8480-c48c49db7ace"
-                }, 
-                {
-                    "adapter_option": [
-                        false, 
-                        false, 
-                        false, 
-                        false, 
-                        -55.0, 
-                        97.0, 
-                        19.0, 
-                        23.0
-                    ], 
-                    "children": [], 
-                    "comp_anims": [], 
-                    "disabled_picture": null, 
-                    "event_list": [], 
-                    "name": "button_5", 
-                    "normal_picture": 100350, 
-                    "normal_text": {
-                        "__tuple__": true, 
-                        "items": [
-                            " ", 
-                            false
-                        ]
-                    }, 
-                    "pos": {
-                        "__tuple__": true, 
-                        "items": [
-                            50.0, 
-                            148.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
-                            50.0, 
-                            148.0
-                        ]
-                    }, 
-                    "press_picture": 100351, 
-                    "size": {
-                        "__tuple__": true, 
-                        "items": [
-                            58.0, 
-                            58.0
-                        ]
-                    }, 
-                    "suspend_picture": 100350, 
-                    "type": 1, 
-                    "uid": "38788cfa-baf6-4fda-82cd-08e43ade55ce"
+                    "uid": "e8c6b67a-b056-403c-bcd6-3e0957177f8b"
                 }, 
                 {
                     "adapter_option": [
@@ -765,15 +686,15 @@
                     "pos": {
                         "__tuple__": true, 
                         "items": [
-                            16.0, 
-                            17.0
+                            16.00006103515625, 
+                            16.99981689453125
                         ]
                     }, 
                     "pos_percent": {
                         "__tuple__": true, 
                         "items": [
-                            16.0, 
-                            17.0
+                            16.00006103515625, 
+                            16.99981689453125
                         ]
                     }, 
                     "size": {
@@ -791,7 +712,7 @@
                         ]
                     }, 
                     "type": 3, 
-                    "uid": "27d5b209-fb73-4616-831e-eadd84a0d875"
+                    "uid": "c5c1479d-3eb3-4f04-99c3-f70d54dd31bb"
                 }, 
                 {
                     "adapter_option": [
@@ -799,10 +720,10 @@
                         false, 
                         false, 
                         false, 
-                        0.0, 
-                        0.0, 
-                        1.0, 
-                        -1.0
+                        0.0001220703125, 
+                        -0.0001220703125, 
+                        1.00006103515625, 
+                        -1.00006103515625
                     ], 
                     "children": [], 
                     "comp_anims": [], 
@@ -814,15 +735,15 @@
                     "pos": {
                         "__tuple__": true, 
                         "items": [
-                            51.0, 
-                            50.0
+                            51.00006103515625, 
+                            49.9998779296875
                         ]
                     }, 
                     "pos_percent": {
                         "__tuple__": true, 
                         "items": [
-                            51.0, 
-                            50.0
+                            51.00006103515625, 
+                            49.9998779296875
                         ]
                     }, 
                     "size": {
@@ -833,7 +754,7 @@
                         ]
                     }, 
                     "type": 4, 
-                    "uid": "836d0e60-f077-4620-b783-a0b6eebe91ab"
+                    "uid": "392eed9b-a961-4b4f-91b6-5e4cd3a3a20f"
                 }, 
                 {
                     "adapter_option": [
@@ -841,10 +762,10 @@
                         false, 
                         false, 
                         false, 
-                        0.0, 
-                        0.0, 
-                        1.0, 
-                        -1.0
+                        0.0001220703125, 
+                        -0.0001220703125, 
+                        1.00006103515625, 
+                        -1.00006103515625
                     ], 
                     "children": [], 
                     "comp_anims": [], 
@@ -856,15 +777,15 @@
                     "pos": {
                         "__tuple__": true, 
                         "items": [
-                            51.0, 
-                            50.0
+                            51.00006103515625, 
+                            49.9998779296875
                         ]
                     }, 
                     "pos_percent": {
                         "__tuple__": true, 
                         "items": [
-                            51.0, 
-                            50.0
+                            51.00006103515625, 
+                            49.9998779296875
                         ]
                     }, 
                     "size": {
@@ -875,7 +796,7 @@
                         ]
                     }, 
                     "type": 4, 
-                    "uid": "8b1ee232-8198-403e-ae57-a1428582926f"
+                    "uid": "af4d9e98-1f9b-417c-a8e6-b5be7c0b6d2e"
                 }
             ], 
             "comp_anims": [], 
@@ -884,32 +805,33 @@
             "pos": {
                 "__tuple__": true, 
                 "items": [
-                    1216.0, 
-                    348.0
+                    800.0, 
+                    200.0
                 ]
             }, 
             "pos_percent": {
                 "__tuple__": true, 
                 "items": [
-                    63.33333333333333, 
-                    32.22222222222222
+                    41.66666666666667, 
+                    18.51851851851852
                 ]
             }, 
-            "skill_cd_label": "54eb0863-c7c1-46b2-9c99-a8e63a4e2d16", 
-            "skill_cd_progress": "8afd93f1-6b7a-4a2b-b090-9acea68dfca0", 
-            "skill_consume_mask_img": "836d0e60-f077-4620-b783-a0b6eebe91ab", 
-            "skill_disable_img": "8b1ee232-8198-403e-ae57-a1428582926f", 
-            "skill_frame_img": "1ec9640e-a8fa-45b0-a374-20d0e8b71b74", 
-            "skill_icon_img": "ddfe49e8-9f29-43a3-9a07-7a315517012a", 
-            "skill_level_label": "5492d58c-5480-4cb4-a54b-9725b5accbcc", 
-            "skill_shortcut_label": "27d5b209-fb73-4616-831e-eadd84a0d875", 
-            "skill_stack_label": "5efcc07c-7283-4769-8480-c48c49db7ace", 
+            "short_cut": 3, 
+            "skill_cd_label": "21f06c40-2bb3-4f46-8277-8d3a4fbf1662", 
+            "skill_cd_progress": "e29930ac-c34a-419e-90e7-8899bf7e9fcb", 
+            "skill_consume_mask_img": "392eed9b-a961-4b4f-91b6-5e4cd3a3a20f", 
+            "skill_disable_img": "af4d9e98-1f9b-417c-a8e6-b5be7c0b6d2e", 
+            "skill_frame_img": "191ddb38-4b83-4bc5-95c8-5adc443546c5", 
+            "skill_icon_img": "9c0db47b-2753-4499-91f6-5db903cd591a", 
+            "skill_level_label": "608bde79-e6ae-449c-8de6-41d48daa1b2f", 
+            "skill_shortcut_label": "c5c1479d-3eb3-4f04-99c3-f70d54dd31bb", 
+            "skill_stack_label": "e8c6b67a-b056-403c-bcd6-3e0957177f8b", 
             "skill_type": 3, 
-            "skill_upgrade_btn": "38788cfa-baf6-4fda-82cd-08e43ade55ce", 
+            "skill_upgrade_btn": "none_ref", 
             "slot_id": 2, 
             "swallow_touches": true, 
             "type": 17, 
-            "uid": "752964e6-9dde-41f4-b600-d735194c0640"
+            "uid": "658f1557-c6d4-4173-b2b6-893f1b97a21a"
         }, 
         {
             "children": [
@@ -922,7 +844,14 @@
                     "pos": {
                         "__tuple__": true, 
                         "items": [
-                            50.0, 
+                            50.0001220703125, 
+                            50.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.0001220703125, 
                             50.0
                         ]
                     }, 
@@ -934,7 +863,7 @@
                         ]
                     }, 
                     "type": 4, 
-                    "uid": "1ed5eff5-6ecf-4da0-9f3d-0d1723a448da"
+                    "uid": "ea1735db-e31c-40b0-8af9-9e3cfeec78b0"
                 }, 
                 {
                     "children": [], 
@@ -945,14 +874,14 @@
                     "pos": {
                         "__tuple__": true, 
                         "items": [
-                            51.0, 
+                            51.0001220703125, 
                             50.0
                         ]
                     }, 
                     "pos_percent": {
                         "__tuple__": true, 
                         "items": [
-                            51.0, 
+                            51.0001220703125, 
                             50.0
                         ]
                     }, 
@@ -964,7 +893,7 @@
                         ]
                     }, 
                     "type": 4, 
-                    "uid": "098aea2b-7643-4e68-b4e9-bb03a0514246"
+                    "uid": "291c0330-3c2c-46f6-ab26-ca7b31f2bfa9"
                 }, 
                 {
                     "adapter_option": [
@@ -995,7 +924,14 @@
                     "pos": {
                         "__tuple__": true, 
                         "items": [
-                            50.0, 
+                            50.0001220703125, 
+                            50.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.0001220703125, 
                             50.0
                         ]
                     }, 
@@ -1008,7 +944,7 @@
                         ]
                     }, 
                     "type": 5, 
-                    "uid": "98970105-9ce9-4f4d-b77e-5c3ca5b4c708"
+                    "uid": "fde67e71-0af3-45d8-a2a4-a377d689b749"
                 }, 
                 {
                     "alignment": {
@@ -1035,7 +971,14 @@
                     "pos": {
                         "__tuple__": true, 
                         "items": [
-                            50.0, 
+                            50.0001220703125, 
+                            50.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.0001220703125, 
                             50.0
                         ]
                     }, 
@@ -1047,7 +990,7 @@
                         ]
                     }, 
                     "type": 3, 
-                    "uid": "26bcfbd1-a66e-4706-8134-3b6099ea4c11"
+                    "uid": "69ae967c-cdee-4d8c-9d09-2c2227fec11c"
                 }, 
                 {
                     "children": [], 
@@ -1064,15 +1007,15 @@
                     "pos": {
                         "__tuple__": true, 
                         "items": [
-                            50.0, 
-                            -12.0
+                            50.0001220703125, 
+                            -12.0001220703125
                         ]
                     }, 
                     "pos_percent": {
                         "__tuple__": true, 
                         "items": [
-                            50.0, 
-                            -12.0
+                            50.0001220703125, 
+                            -12.0001220703125
                         ]
                     }, 
                     "size": {
@@ -1090,7 +1033,7 @@
                         ]
                     }, 
                     "type": 3, 
-                    "uid": "782069da-d97f-48b1-8baf-9bbf12afc3af"
+                    "uid": "b14c69ec-6214-485f-b1ce-0eae5aa00b8a"
                 }, 
                 {
                     "adapter_option": [
@@ -1117,15 +1060,15 @@
                     "pos": {
                         "__tuple__": true, 
                         "items": [
-                            95.0, 
-                            17.0
+                            95.0001220703125, 
+                            16.99993896484375
                         ]
                     }, 
                     "pos_percent": {
                         "__tuple__": true, 
                         "items": [
-                            95.0, 
-                            17.0
+                            95.0001220703125, 
+                            16.99993896484375
                         ]
                     }, 
                     "size": {
@@ -1143,57 +1086,7 @@
                         ]
                     }, 
                     "type": 3, 
-                    "uid": "d278b36d-a6c9-43b5-bb54-adcafaab87f4"
-                }, 
-                {
-                    "adapter_option": [
-                        false, 
-                        false, 
-                        false, 
-                        false, 
-                        -55.0, 
-                        97.0, 
-                        19.0, 
-                        23.0
-                    ], 
-                    "children": [], 
-                    "comp_anims": [], 
-                    "disabled_picture": null, 
-                    "event_list": [], 
-                    "name": "button_5", 
-                    "normal_picture": 100350, 
-                    "normal_text": {
-                        "__tuple__": true, 
-                        "items": [
-                            " ", 
-                            false
-                        ]
-                    }, 
-                    "pos": {
-                        "__tuple__": true, 
-                        "items": [
-                            50.0, 
-                            148.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
-                            50.0, 
-                            148.0
-                        ]
-                    }, 
-                    "press_picture": 100351, 
-                    "size": {
-                        "__tuple__": true, 
-                        "items": [
-                            58.0, 
-                            58.0
-                        ]
-                    }, 
-                    "suspend_picture": 100350, 
-                    "type": 1, 
-                    "uid": "76e5d57b-2ca4-4d33-95fb-da30e81ea701"
+                    "uid": "22bd27dd-ee64-4ed8-8151-fd432b81e6c1"
                 }, 
                 {
                     "adapter_option": [
@@ -1220,15 +1113,15 @@
                     "pos": {
                         "__tuple__": true, 
                         "items": [
-                            16.0, 
-                            17.0
+                            16.0001220703125, 
+                            16.99993896484375
                         ]
                     }, 
                     "pos_percent": {
                         "__tuple__": true, 
                         "items": [
-                            16.0, 
-                            17.0
+                            16.0001220703125, 
+                            16.99993896484375
                         ]
                     }, 
                     "size": {
@@ -1246,7 +1139,7 @@
                         ]
                     }, 
                     "type": 3, 
-                    "uid": "54e8c478-92a7-4e4b-844f-bb9a3bc92366"
+                    "uid": "dc9c9f8a-a690-415d-9411-9814fb8ada9f"
                 }, 
                 {
                     "adapter_option": [
@@ -1256,8 +1149,8 @@
                         false, 
                         0.0, 
                         0.0, 
-                        1.0, 
-                        -1.0
+                        1.0001220703125, 
+                        -1.0001220703125
                     ], 
                     "children": [], 
                     "comp_anims": [], 
@@ -1269,14 +1162,14 @@
                     "pos": {
                         "__tuple__": true, 
                         "items": [
-                            51.0, 
+                            51.0001220703125, 
                             50.0
                         ]
                     }, 
                     "pos_percent": {
                         "__tuple__": true, 
                         "items": [
-                            51.0, 
+                            51.0001220703125, 
                             50.0
                         ]
                     }, 
@@ -1288,7 +1181,7 @@
                         ]
                     }, 
                     "type": 4, 
-                    "uid": "50b8d15c-a0c0-4114-bcd2-9424dc91922d"
+                    "uid": "f1cfd155-5226-4046-9866-1be705effcfd"
                 }, 
                 {
                     "adapter_option": [
@@ -1298,8 +1191,8 @@
                         false, 
                         0.0, 
                         0.0, 
-                        1.0, 
-                        -1.0
+                        1.0001220703125, 
+                        -1.0001220703125
                     ], 
                     "children": [], 
                     "comp_anims": [], 
@@ -1311,14 +1204,14 @@
                     "pos": {
                         "__tuple__": true, 
                         "items": [
-                            51.0, 
+                            51.0001220703125, 
                             50.0
                         ]
                     }, 
                     "pos_percent": {
                         "__tuple__": true, 
                         "items": [
-                            51.0, 
+                            51.0001220703125, 
                             50.0
                         ]
                     }, 
@@ -1330,7 +1223,7 @@
                         ]
                     }, 
                     "type": 4, 
-                    "uid": "fc26f8e9-b20e-4f97-94f7-4a33b347c7cf"
+                    "uid": "d10d1804-cc0f-4aba-aa04-043b9eb60a3d"
                 }
             ], 
             "comp_anims": [], 
@@ -1339,32 +1232,33 @@
             "pos": {
                 "__tuple__": true, 
                 "items": [
-                    937.0, 
-                    346.0
+                    950.0, 
+                    200.0
                 ]
             }, 
             "pos_percent": {
                 "__tuple__": true, 
                 "items": [
-                    48.802083333333336, 
-                    32.03703703703704
+                    49.47916666666667, 
+                    18.51851851851852
                 ]
             }, 
-            "skill_cd_label": "26bcfbd1-a66e-4706-8134-3b6099ea4c11", 
-            "skill_cd_progress": "98970105-9ce9-4f4d-b77e-5c3ca5b4c708", 
-            "skill_consume_mask_img": "50b8d15c-a0c0-4114-bcd2-9424dc91922d", 
-            "skill_disable_img": "fc26f8e9-b20e-4f97-94f7-4a33b347c7cf", 
-            "skill_frame_img": "1ed5eff5-6ecf-4da0-9f3d-0d1723a448da", 
-            "skill_icon_img": "098aea2b-7643-4e68-b4e9-bb03a0514246", 
-            "skill_level_label": "782069da-d97f-48b1-8baf-9bbf12afc3af", 
-            "skill_shortcut_label": "54e8c478-92a7-4e4b-844f-bb9a3bc92366", 
-            "skill_stack_label": "d278b36d-a6c9-43b5-bb54-adcafaab87f4", 
+            "short_cut": 4, 
+            "skill_cd_label": "69ae967c-cdee-4d8c-9d09-2c2227fec11c", 
+            "skill_cd_progress": "fde67e71-0af3-45d8-a2a4-a377d689b749", 
+            "skill_consume_mask_img": "f1cfd155-5226-4046-9866-1be705effcfd", 
+            "skill_disable_img": "d10d1804-cc0f-4aba-aa04-043b9eb60a3d", 
+            "skill_frame_img": "ea1735db-e31c-40b0-8af9-9e3cfeec78b0", 
+            "skill_icon_img": "291c0330-3c2c-46f6-ab26-ca7b31f2bfa9", 
+            "skill_level_label": "b14c69ec-6214-485f-b1ce-0eae5aa00b8a", 
+            "skill_shortcut_label": "dc9c9f8a-a690-415d-9411-9814fb8ada9f", 
+            "skill_stack_label": "22bd27dd-ee64-4ed8-8151-fd432b81e6c1", 
             "skill_type": 3, 
-            "skill_upgrade_btn": "76e5d57b-2ca4-4d33-95fb-da30e81ea701", 
+            "skill_upgrade_btn": "none_ref", 
             "slot_id": 3, 
             "swallow_touches": true, 
             "type": 17, 
-            "uid": "27d27b30-e3f6-49fe-910b-fcd9f378600b"
+            "uid": "54c2651b-2523-4273-b2f3-e5eaf9af521e"
         }, 
         {
             "children": [
@@ -1389,7 +1283,7 @@
                         ]
                     }, 
                     "type": 4, 
-                    "uid": "dee9ecc9-2949-4036-9d75-184b8bc10034"
+                    "uid": "13145dd1-4629-4594-b5a8-1b6c37e248b7"
                 }, 
                 {
                     "children": [], 
@@ -1419,7 +1313,7 @@
                         ]
                     }, 
                     "type": 4, 
-                    "uid": "24662b16-a292-4666-932a-8dca1abb8f44"
+                    "uid": "0ad0097f-dc9e-421d-99b7-dcc6bed644a1"
                 }, 
                 {
                     "adapter_option": [
@@ -1463,7 +1357,7 @@
                         ]
                     }, 
                     "type": 5, 
-                    "uid": "d5e32535-f7b0-494a-96bb-f79511184dbf"
+                    "uid": "053681cc-d78b-4647-93bb-619f44e53d2e"
                 }, 
                 {
                     "alignment": {
@@ -1502,7 +1396,7 @@
                         ]
                     }, 
                     "type": 3, 
-                    "uid": "f6fb01c1-39f0-4283-86df-e1a753a85231"
+                    "uid": "c3532209-6b53-4d10-ad1d-a2d9912ede1a"
                 }, 
                 {
                     "children": [], 
@@ -1545,7 +1439,7 @@
                         ]
                     }, 
                     "type": 3, 
-                    "uid": "00a72ddf-58be-4b68-88ba-d7138dbf2eb7"
+                    "uid": "af2f8b42-2c70-48a6-b6da-6e367f61554f"
                 }, 
                 {
                     "adapter_option": [
@@ -1598,57 +1492,7 @@
                         ]
                     }, 
                     "type": 3, 
-                    "uid": "f437e97c-5060-4b5f-a2b9-aa44b9ea8b48"
-                }, 
-                {
-                    "adapter_option": [
-                        false, 
-                        false, 
-                        false, 
-                        false, 
-                        -55.0, 
-                        97.0, 
-                        19.0, 
-                        23.0
-                    ], 
-                    "children": [], 
-                    "comp_anims": [], 
-                    "disabled_picture": null, 
-                    "event_list": [], 
-                    "name": "button_5", 
-                    "normal_picture": 100350, 
-                    "normal_text": {
-                        "__tuple__": true, 
-                        "items": [
-                            " ", 
-                            false
-                        ]
-                    }, 
-                    "pos": {
-                        "__tuple__": true, 
-                        "items": [
-                            50.0, 
-                            148.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
-                            50.0, 
-                            148.0
-                        ]
-                    }, 
-                    "press_picture": 100351, 
-                    "size": {
-                        "__tuple__": true, 
-                        "items": [
-                            58.0, 
-                            58.0
-                        ]
-                    }, 
-                    "suspend_picture": 100350, 
-                    "type": 1, 
-                    "uid": "4d797e51-b464-42d5-b22b-9cafd0a90f51"
+                    "uid": "40811a96-6849-42fa-b442-cb2672f78468"
                 }, 
                 {
                     "adapter_option": [
@@ -1701,7 +1545,7 @@
                         ]
                     }, 
                     "type": 3, 
-                    "uid": "78c841bc-bf46-48e5-9577-1b778a6b6681"
+                    "uid": "cd0decd3-d89e-461f-a2df-b1a873469b76"
                 }, 
                 {
                     "adapter_option": [
@@ -1743,7 +1587,7 @@
                         ]
                     }, 
                     "type": 4, 
-                    "uid": "2e0d87e9-f566-4c7e-a70b-b13ad83f4aeb"
+                    "uid": "5b70dfa7-c8a4-4e91-864b-f2b1c55d4989"
                 }, 
                 {
                     "adapter_option": [
@@ -1785,7 +1629,7 @@
                         ]
                     }, 
                     "type": 4, 
-                    "uid": "d256d420-0ce5-4687-a8bf-99280639a02f"
+                    "uid": "7bd197d6-76f9-43ca-aad9-c3ab293d356b"
                 }
             ], 
             "comp_anims": [], 
@@ -1794,491 +1638,37 @@
             "pos": {
                 "__tuple__": true, 
                 "items": [
-                    952.0, 
-                    165.0
+                    1100.0, 
+                    200.0
                 ]
             }, 
             "pos_percent": {
                 "__tuple__": true, 
                 "items": [
-                    49.583333333333336, 
-                    15.277777777777779
+                    57.291666666666664, 
+                    18.51851851851852
                 ]
             }, 
-            "skill_cd_label": "f6fb01c1-39f0-4283-86df-e1a753a85231", 
-            "skill_cd_progress": "d5e32535-f7b0-494a-96bb-f79511184dbf", 
-            "skill_consume_mask_img": "2e0d87e9-f566-4c7e-a70b-b13ad83f4aeb", 
-            "skill_disable_img": "d256d420-0ce5-4687-a8bf-99280639a02f", 
-            "skill_frame_img": "dee9ecc9-2949-4036-9d75-184b8bc10034", 
-            "skill_icon_img": "24662b16-a292-4666-932a-8dca1abb8f44", 
-            "skill_level_label": "00a72ddf-58be-4b68-88ba-d7138dbf2eb7", 
-            "skill_shortcut_label": "78c841bc-bf46-48e5-9577-1b778a6b6681", 
-            "skill_stack_label": "f437e97c-5060-4b5f-a2b9-aa44b9ea8b48", 
+            "short_cut": 5, 
+            "skill_cd_label": "c3532209-6b53-4d10-ad1d-a2d9912ede1a", 
+            "skill_cd_progress": "053681cc-d78b-4647-93bb-619f44e53d2e", 
+            "skill_consume_mask_img": "5b70dfa7-c8a4-4e91-864b-f2b1c55d4989", 
+            "skill_disable_img": "7bd197d6-76f9-43ca-aad9-c3ab293d356b", 
+            "skill_frame_img": "13145dd1-4629-4594-b5a8-1b6c37e248b7", 
+            "skill_icon_img": "0ad0097f-dc9e-421d-99b7-dcc6bed644a1", 
+            "skill_level_label": "af2f8b42-2c70-48a6-b6da-6e367f61554f", 
+            "skill_shortcut_label": "cd0decd3-d89e-461f-a2df-b1a873469b76", 
+            "skill_stack_label": "40811a96-6849-42fa-b442-cb2672f78468", 
             "skill_type": 3, 
-            "skill_upgrade_btn": "4d797e51-b464-42d5-b22b-9cafd0a90f51", 
+            "skill_upgrade_btn": "none_ref", 
             "slot_id": 4, 
             "swallow_touches": true, 
             "type": 17, 
-            "uid": "6dee3ee7-439a-45c0-9e59-8e8e3cec38ea"
-        }, 
-        {
-            "children": [
-                {
-                    "children": [], 
-                    "comp_anims": [], 
-                    "event_list": [], 
-                    "image": 101231, 
-                    "name": "image_24", 
-                    "pos": {
-                        "__tuple__": true, 
-                        "items": [
-                            50.0, 
-                            50.0
-                        ]
-                    }, 
-                    "size": {
-                        "__tuple__": true, 
-                        "items": [
-                            100.0, 
-                            100.0
-                        ]
-                    }, 
-                    "type": 4, 
-                    "uid": "3fa00da2-551e-438c-ada5-53e3c98e1020"
-                }, 
-                {
-                    "children": [], 
-                    "comp_anims": [], 
-                    "event_list": [], 
-                    "image": 100070, 
-                    "name": "image_25", 
-                    "pos": {
-                        "__tuple__": true, 
-                        "items": [
-                            51.0, 
-                            50.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
-                            51.0, 
-                            50.0
-                        ]
-                    }, 
-                    "size": {
-                        "__tuple__": true, 
-                        "items": [
-                            100.0, 
-                            100.0
-                        ]
-                    }, 
-                    "type": 4, 
-                    "uid": "f76c5507-aa00-4514-abd9-7dc8a82d6bbe"
-                }, 
-                {
-                    "adapter_option": [
-                        false, 
-                        false, 
-                        false, 
-                        false, 
-                        -11.633125305175781, 
-                        16.36687469482422, 
-                        -10.0, 
-                        10.0
-                    ], 
-                    "bg_color": {
-                        "__tuple__": true, 
-                        "items": [
-                            255, 
-                            255, 
-                            255, 
-                            0
-                        ]
-                    }, 
-                    "bg_image": 999, 
-                    "children": [], 
-                    "comp_anims": [], 
-                    "event_list": [], 
-                    "image": 100062, 
-                    "name": "progress_9", 
-                    "pos": {
-                        "__tuple__": true, 
-                        "items": [
-                            50.0, 
-                            50.0
-                        ]
-                    }, 
-                    "progress_type": 0, 
-                    "size": {
-                        "__tuple__": true, 
-                        "items": [
-                            134.0, 
-                            80.0
-                        ]
-                    }, 
-                    "type": 5, 
-                    "uid": "69194147-a3e2-49b1-aa41-fea2cbc81745"
-                }, 
-                {
-                    "alignment": {
-                        "__tuple__": true, 
-                        "items": [
-                            2, 
-                            8
-                        ]
-                    }, 
-                    "bold": true, 
-                    "children": [], 
-                    "comp_anims": [], 
-                    "event_list": [], 
-                    "label_effect": {
-                        "__tuple__": true, 
-                        "items": [
-                            true, 
-                            false, 
-                            false, 
-                            false
-                        ]
-                    }, 
-                    "name": "label_1", 
-                    "pos": {
-                        "__tuple__": true, 
-                        "items": [
-                            50.0, 
-                            50.0
-                        ]
-                    }, 
-                    "text": {
-                        "__tuple__": true, 
-                        "items": [
-                            "10", 
-                            false
-                        ]
-                    }, 
-                    "type": 3, 
-                    "uid": "1fa5249d-a719-4f44-9d3c-058de7543ae2"
-                }, 
-                {
-                    "children": [], 
-                    "comp_anims": [], 
-                    "event_list": [], 
-                    "font": {
-                        "__tuple__": true, 
-                        "items": [
-                            "", 
-                            24
-                        ]
-                    }, 
-                    "name": "label_24", 
-                    "pos": {
-                        "__tuple__": true, 
-                        "items": [
-                            50.0, 
-                            -12.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
-                            50.0, 
-                            -12.0
-                        ]
-                    }, 
-                    "size": {
-                        "__tuple__": true, 
-                        "items": [
-                            157.5999755859375, 
-                            24.0
-                        ]
-                    }, 
-                    "text": {
-                        "__tuple__": true, 
-                        "items": [
-                            "lv.1 \u6069\u8d50\u89e3\u8131", 
-                            false
-                        ]
-                    }, 
-                    "type": 3, 
-                    "uid": "ba779785-a8d6-448c-bca4-d397d2b5d4ac"
-                }, 
-                {
-                    "adapter_option": [
-                        false, 
-                        false, 
-                        false, 
-                        false, 
-                        71.0, 
-                        5.0, 
-                        83.0, 
-                        -7.0
-                    ], 
-                    "children": [], 
-                    "comp_anims": [], 
-                    "event_list": [], 
-                    "font": {
-                        "__tuple__": true, 
-                        "items": [
-                            "", 
-                            24
-                        ]
-                    }, 
-                    "name": "label_25", 
-                    "pos": {
-                        "__tuple__": true, 
-                        "items": [
-                            95.0, 
-                            17.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
-                            95.0, 
-                            17.0
-                        ]
-                    }, 
-                    "size": {
-                        "__tuple__": true, 
-                        "items": [
-                            24.0, 
-                            24.0
-                        ]
-                    }, 
-                    "text": {
-                        "__tuple__": true, 
-                        "items": [
-                            "5", 
-                            false
-                        ]
-                    }, 
-                    "type": 3, 
-                    "uid": "caf64235-203e-4ab7-9f1e-64863bbc76d0"
-                }, 
-                {
-                    "adapter_option": [
-                        false, 
-                        false, 
-                        false, 
-                        false, 
-                        -55.0, 
-                        97.0, 
-                        19.0, 
-                        23.0
-                    ], 
-                    "children": [], 
-                    "comp_anims": [], 
-                    "disabled_picture": null, 
-                    "event_list": [], 
-                    "name": "button_5", 
-                    "normal_picture": 100350, 
-                    "normal_text": {
-                        "__tuple__": true, 
-                        "items": [
-                            " ", 
-                            false
-                        ]
-                    }, 
-                    "pos": {
-                        "__tuple__": true, 
-                        "items": [
-                            50.0, 
-                            148.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
-                            50.0, 
-                            148.0
-                        ]
-                    }, 
-                    "press_picture": 100351, 
-                    "size": {
-                        "__tuple__": true, 
-                        "items": [
-                            58.0, 
-                            58.0
-                        ]
-                    }, 
-                    "suspend_picture": 100350, 
-                    "type": 1, 
-                    "uid": "a615797b-7054-437a-b4b9-ac7a3e4c9f86"
-                }, 
-                {
-                    "adapter_option": [
-                        false, 
-                        false, 
-                        false, 
-                        false, 
-                        71.0, 
-                        5.0, 
-                        4.0, 
-                        72.0
-                    ], 
-                    "children": [], 
-                    "comp_anims": [], 
-                    "event_list": [], 
-                    "font": {
-                        "__tuple__": true, 
-                        "items": [
-                            "", 
-                            24
-                        ]
-                    }, 
-                    "name": "label_26", 
-                    "pos": {
-                        "__tuple__": true, 
-                        "items": [
-                            16.0, 
-                            17.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
-                            16.0, 
-                            17.0
-                        ]
-                    }, 
-                    "size": {
-                        "__tuple__": true, 
-                        "items": [
-                            24.0, 
-                            24.0
-                        ]
-                    }, 
-                    "text": {
-                        "__tuple__": true, 
-                        "items": [
-                            "Q", 
-                            false
-                        ]
-                    }, 
-                    "type": 3, 
-                    "uid": "37b475ff-594d-4c18-97a4-ac26870e5c6e"
-                }, 
-                {
-                    "adapter_option": [
-                        false, 
-                        false, 
-                        false, 
-                        false, 
-                        0.0, 
-                        0.0, 
-                        1.0, 
-                        -1.0
-                    ], 
-                    "children": [], 
-                    "comp_anims": [], 
-                    "event_list": [], 
-                    "image": 101236, 
-                    "name": "image_26", 
-                    "opacity": 0.8, 
-                    "open_adapter": true, 
-                    "pos": {
-                        "__tuple__": true, 
-                        "items": [
-                            51.0, 
-                            50.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
-                            51.0, 
-                            50.0
-                        ]
-                    }, 
-                    "size": {
-                        "__tuple__": true, 
-                        "items": [
-                            100.0, 
-                            100.0
-                        ]
-                    }, 
-                    "type": 4, 
-                    "uid": "27be23f5-9062-44e6-82ab-ba5c847800cd"
-                }, 
-                {
-                    "adapter_option": [
-                        false, 
-                        false, 
-                        false, 
-                        false, 
-                        0.0, 
-                        0.0, 
-                        1.0, 
-                        -1.0
-                    ], 
-                    "children": [], 
-                    "comp_anims": [], 
-                    "event_list": [], 
-                    "image": 100387, 
-                    "name": "image_27", 
-                    "opacity": 0.8, 
-                    "open_adapter": true, 
-                    "pos": {
-                        "__tuple__": true, 
-                        "items": [
-                            51.0, 
-                            50.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
-                            51.0, 
-                            50.0
-                        ]
-                    }, 
-                    "size": {
-                        "__tuple__": true, 
-                        "items": [
-                            100.0, 
-                            100.0
-                        ]
-                    }, 
-                    "type": 4, 
-                    "uid": "563f0a5a-3a69-4e51-a0a8-067dff8120dd"
-                }
-            ], 
-            "comp_anims": [], 
-            "event_list": [], 
-            "name": "skill_btn_15", 
-            "pos": {
-                "__tuple__": true, 
-                "items": [
-                    1102.0, 
-                    168.0
-                ]
-            }, 
-            "pos_percent": {
-                "__tuple__": true, 
-                "items": [
-                    57.395833333333336, 
-                    15.555555555555555
-                ]
-            }, 
-            "skill_cd_label": "1fa5249d-a719-4f44-9d3c-058de7543ae2", 
-            "skill_cd_progress": "69194147-a3e2-49b1-aa41-fea2cbc81745", 
-            "skill_consume_mask_img": "27be23f5-9062-44e6-82ab-ba5c847800cd", 
-            "skill_disable_img": "563f0a5a-3a69-4e51-a0a8-067dff8120dd", 
-            "skill_frame_img": "3fa00da2-551e-438c-ada5-53e3c98e1020", 
-            "skill_icon_img": "f76c5507-aa00-4514-abd9-7dc8a82d6bbe", 
-            "skill_level_label": "ba779785-a8d6-448c-bca4-d397d2b5d4ac", 
-            "skill_shortcut_label": "37b475ff-594d-4c18-97a4-ac26870e5c6e", 
-            "skill_stack_label": "caf64235-203e-4ab7-9f1e-64863bbc76d0", 
-            "skill_type": 3, 
-            "skill_upgrade_btn": "a615797b-7054-437a-b4b9-ac7a3e4c9f86", 
-            "slot_id": 5, 
-            "swallow_touches": true, 
-            "type": 17, 
-            "uid": "63017c46-b1ca-4dd2-af0b-048484783fe8"
+            "uid": "42c2c2a5-0522-477a-b856-72b2b3e7b6b8"
         }
     ], 
-    "editor_visible": true, 
-    "name": "panel_2", 
+    "editor_visible": false, 
+    "name": "skill", 
     "opacity": 1.0, 
     "type": 2, 
     "uid": "395c3a29-428f-4c2f-af20-f828a8ab9be5", 
