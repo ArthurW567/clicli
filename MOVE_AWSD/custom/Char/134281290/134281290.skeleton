@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<matrixlayout>column major</matrixlayout>
+	<system>character</system>
+	<mainroot>Hips</mainroot>
+	<node>
+		<identifier>Scene Root</identifier>
+		<transform>
+			<row0>1 0 0</row0>
+			<row1>0 1 0</row1>
+			<row2>0 0 1</row2>
+			<row3>0 0 0</row3>
+		</transform>
+		<node>
+			<identifier>Hips</identifier>
+			<transform>
+				<row0>1 -0.000028 0.000001</row0>
+				<row1>0.000001 0 -1</row1>
+				<row2>0.000028 1 0</row2>
+				<row3>0 0.154897 -0.002289</row3>
+			</transform>
+			<node>
+				<identifier>Spine</identifier>
+				<transform>
+					<row0>1 0.000001 0.000028</row0>
+					<row1>-0.000004 0.993755 0.111582</row1>
+					<row2>-0.000028 -0.111582 0.993755</row2>
+					<row3>0 -0.00126 0.011221</row3>
+				</transform>
+				<node>
+					<identifier>Spine1</identifier>
+					<transform>
+						<row0>1 0 0</row0>
+						<row1>0 1 0</row1>
+						<row2>0 0 1</row2>
+						<row3>0 0 0.013173</row3>
+					</transform>
+					<node>
+						<identifier>Spine2</identifier>
+						<transform>
+							<row0>1 0 0</row0>
+							<row1>0 1 0</row1>
+							<row2>0 0 1</row2>
+							<row3>0 0 0.015055</row3>
+						</transform>
+						<node>
+							<identifier>Neck</identifier>
+							<transform>
+								<row0>1 0 0</row0>
+								<row1>0 0.993755 -0.111582</row1>
+								<row2>0 0.111582 0.993755</row2>
+								<row3>0 0 0.016937</row3>
+							</transform>
+							<node>
+								<identifier>Head</identifier>
+								<transform>
+									<row0>1 0 0</row0>
+									<row1>0 1 0</row1>
+									<row2>0 0 1</row2>
+									<row3>0 0.000403 0.010033</row3>
+								</transform>
+								<node>
+									<identifier>HeadTop_End</identifier>
+									<transform>
+										<row0>1 0 0</row0>
+										<row1>0 1 0</row1>
+										<row2>0 0 1</row2>
+										<row3>0 0.000418 0.032075</row3>
+									</transform>
+									<node>
+										<identifier>Hair</identifier>
+										<transform>
+											<row0>1 0 0</row0>
+											<row1>0 1 0</row1>
+											<row2>0 0 1</row2>
+											<row3>0.009713 -0.027125 -0.006625</row3>
+										</transform>
+										<node>
+											<identifier>Hair1</identifier>
+											<transform>
+												<row0>1 0 0</row0>
+												<row1>0 1 0</row1>
+												<row2>0 0 1</row2>
+												<row3>0 0 -0.017816</row3>
+											</transform>
+											<node>
+												<identifier>Hair2</identifier>
+												<transform>
+													<row0>1 0 0</row0>
+													<row1>0 1 0</row1>
+													<row2>0 0 1</row2>
+													<row3>0 0 -0.018693</row3>
+												</transform>
+												<node>
+													<identifier>Hair3</identifier>
+													<transform>
+														<row0>1 0 0</row0>
+														<row1>0 1 0</row1>
+														<row2>0 0 1</row2>
+														<row3>0 0 -0.020787</row3>
+													</transform>
+													<node>
+														<identifier>Hair4</identifier>
+														<transform>
+															<row0>1 0 0</row0>
+															<row1>0 1 0</row1>
+															<row2>0 0 1</row2>
+															<row3>0 0 -0.020426</row3>
+														</transform>
+													</node>
+												</node>
+											</node>
+										</node>
+									</node>
+								</node>
+							</node>
+						</node>
+						<node>
+							<identifier>LeftShoulder</identifier>
+							<transform>
+								<row0>-0.087915 0.996126 0.001848</row0>
+								<row1>0.51036 0.046636 -0.858696</row1>
+								<row2>-0.855455 -0.074549 -0.512483</row2>
+								<row3>-0.00523 -0.000487 0.013553</row3>
+							</transform>
+							<node>
+								<identifier>LeftArm</identifier>
+								<transform>
+									<row0>0.997544 0 0.070044</row0>
+									<row1>-0.008163 0.993187 0.116248</row1>
+									<row2>-0.069566 -0.116535 0.990747</row2>
+									<row3>0 0 0.012552</row3>
+								</transform>
+								<node>
+									<identifier>LeftForeArm</identifier>
+									<transform>
+										<row0>0.996982 0 -0.077632</row0>
+										<row1>-0.008766 0.993605 -0.112571</row1>
+										<row2>0.077136 0.112912 0.990606</row2>
+										<row3>0 0 0.033742</row3>
+									</transform>
+									<node>
+										<identifier>LeftHand</identifier>
+										<transform>
+											<row0>0.989949 0.141266 -0.006694</row0>
+											<row1>-0.140403 0.976017 -0.166367</row1>
+											<row2>-0.016969 0.165635 0.986041</row2>
+											<row3>0 0 0.040766</row3>
+										</transform>
+										<node>
+											<identifier>LeftHandThumb1</identifier>
+											<transform>
+												<row0>0.912976 0 -0.408014</row0>
+												<row1>-0.185896 0.890179 -0.415962</row1>
+												<row2>0.363205 0.455612 0.812711</row2>
+												<row3>0.002019 0.002369 0.004168</row3>
+											</transform>
+											<node>
+												<identifier>LeftHandThumb2</identifier>
+												<transform>
+													<row0>1 0 0</row0>
+													<row1>0 0.968118 -0.250493</row1>
+													<row2>0 0.250493 0.968118</row2>
+													<row3>0.000114 0 0.00416</row3>
+												</transform>
+												<node>
+													<identifier>LeftHandThumb3</identifier>
+													<transform>
+														<row0>1 0 0</row0>
+														<row1>0 0.938943 0.344072</row1>
+														<row2>0 -0.344072 0.938943</row2>
+														<row3>0.000392 0 0.004851</row3>
+													</transform>
+													<node>
+														<identifier>LeftHandThumb4</identifier>
+														<transform>
+															<row0>1 0 0</row0>
+															<row1>0 1 0</row1>
+															<row2>0 0 1</row2>
+															<row3>-0.000506 0 0.004188</row3>
+														</transform>
+													</node>
+												</node>
+											</node>
+										</node>
+										<node>
+											<identifier>LeftHandIndex1</identifier>
+											<transform>
+												<row0>0.99997 0 -0.007742</row0>
+												<row1>-0.000419 0.998536 -0.054089</row1>
+												<row2>0.007731 0.054091 0.998506</row2>
+												<row3>0.004813 -0.000025 0.014434</row3>
+											</transform>
+											<node>
+												<identifier>LeftHandIndex2</identifier>
+												<transform>
+													<row0>1 0 0</row0>
+													<row1>0 0.967716 -0.252044</row1>
+													<row2>0 0.252044 0.967716</row2>
+													<row3>-0.000005 0 0.004039</row3>
+												</transform>
+												<node>
+													<identifier>LeftHandIndex3</identifier>
+													<transform>
+														<row0>1 0 0</row0>
+														<row1>0 0.992612 -0.121334</row1>
+														<row2>0 0.121334 0.992612</row2>
+														<row3>0.000002 0 0.003684</row3>
+													</transform>
+													<node>
+														<identifier>LeftHandIndex4</identifier>
+														<transform>
+															<row0>1 0 0</row0>
+															<row1>0 1 0</row1>
+															<row2>0 0 1</row2>
+															<row3>0.000003 0 0.003129</row3>
+														</transform>
+													</node>
+												</node>
+											</node>
+										</node>
+										<node>
+											<identifier>LeftHandMiddle1</identifier>
+											<transform>
+												<row0>0.99878 0 -0.049376</row0>
+												<row1>-0.002789 0.998403 -0.056426</row1>
+												<row2>0.049297 0.056495 0.997185</row2>
+												<row3>0.001367 -0.000185 0.014571</row3>
+											</transform>
+											<node>
+												<identifier>LeftHandMiddle2</identifier>
+												<transform>
+													<row0>1 0 0</row0>
+													<row1>0 0.983956 -0.178409</row1>
+													<row2>0 0.178409 0.983956</row2>
+													<row3>-0.000005 0 0.003903</row3>
+												</transform>
+												<node>
+													<identifier>LeftHandMiddle3</identifier>
+													<transform>
+														<row0>1 0 0</row0>
+														<row1>0 0.990893 0.13465</row1>
+														<row2>0 -0.13465 0.990893</row2>
+														<row3>0.000007 0 0.004223</row3>
+													</transform>
+													<node>
+														<identifier>LeftHandMiddle4</identifier>
+														<transform>
+															<row0>1 0 0</row0>
+															<row1>0 1 0</row1>
+															<row2>0 0 1</row2>
+															<row3>-0.000002 0 0.003615</row3>
+														</transform>
+													</node>
+												</node>
+											</node>
+										</node>
+										<node>
+											<identifier>LeftHandRing1</identifier>
+											<transform>
+												<row0>0.99993 0 0.011838</row0>
+												<row1>0.000408 0.999406 -0.034448</row1>
+												<row2>-0.011831 0.03445 0.999336</row2>
+												<row3>-0.001576 -0.000038 0.014856</row3>
+											</transform>
+											<node>
+												<identifier>LeftHandRing2</identifier>
+												<transform>
+													<row0>1 0 0</row0>
+													<row1>0 0.975454 -0.220204</row1>
+													<row2>0 0.220204 0.975454</row2>
+													<row3>-0.000003 0 0.003936</row3>
+												</transform>
+												<node>
+													<identifier>LeftHandRing3</identifier>
+													<transform>
+														<row0>1 0 0</row0>
+														<row1>0 0.992871 0.119195</row1>
+														<row2>0 -0.119195 0.992871</row2>
+														<row3>0.000002 0 0.003942</row3>
+													</transform>
+													<node>
+														<identifier>LeftHandRing4</identifier>
+														<transform>
+															<row0>1 0 0</row0>
+															<row1>0 1 0</row1>
+															<row2>0 0 1</row2>
+															<row3>0.000001 0 0.003104</row3>
+														</transform>
+													</node>
+												</node>
+											</node>
+										</node>
+										<node>
+											<identifier>LeftHandPinky1</identifier>
+											<transform>
+												<row0>0.997817 0 0.066045</row0>
+												<row1>0.005788 0.996153 -0.08744</row1>
+												<row2>-0.065791 0.087631 0.993978</row2>
+												<row3>-0.004604 -0.000137 0.013535</row3>
+											</transform>
+											<node>
+												<identifier>LeftHandPinky2</identifier>
+												<transform>
+													<row0>1 0 0</row0>
+													<row1>0 0.984184 -0.177148</row1>
+													<row2>0 0.177148 0.984184</row2>
+													<row3>0.000005 0 0.003965</row3>
+												</transform>
+												<node>
+													<identifier>LeftHandPinky3</identifier>
+													<transform>
+														<row0>1 0 0</row0>
+														<row1>0 0.999922 0.012458</row1>
+														<row2>0 -0.012458 0.999922</row2>
+														<row3>-0.000003 0 0.003302</row3>
+													</transform>
+													<node>
+														<identifier>LeftHandPinky4</identifier>
+														<transform>
+															<row0>1 0 0</row0>
+															<row1>0 1 0</row1>
+															<row2>0 0 1</row2>
+															<row3>-0.000002 0 0.002691</row3>
+														</transform>
+													</node>
+												</node>
+											</node>
+										</node>
+									</node>
+								</node>
+							</node>
+						</node>
+						<node>
+							<identifier>RightShoulder</identifier>
+							<transform>
+								<row0>-0.048745 -0.99881 -0.001525</row0>
+								<row1>-0.515577 0.02647 -0.856434</row1>
+								<row2>0.855455 -0.040961 -0.516254</row2>
+								<row3>0.00523 -0.000276 0.013529</row3>
+							</transform>
+							<node>
+								<identifier>RightArm</identifier>
+								<transform>
+									<row0>0.992135 0 -0.125173</row0>
+									<row1>0.015181 0.992619 0.120324</row1>
+									<row2>0.124249 -0.121278 0.984812</row2>
+									<row3>0 0 0.012552</row3>
+								</transform>
+								<node>
+									<identifier>RightForeArm</identifier>
+									<transform>
+										<row0>0.995033 0 0.099549</row0>
+										<row1>0.011267 0.993574 -0.112622</row1>
+										<row2>-0.098909 0.113184 0.988639</row2>
+										<row3>0 0 0.033816</row3>
+									</transform>
+									<node>
+										<identifier>RightHand</identifier>
+										<transform>
+											<row0>0.99516 -0.098264 0.000797</row0>
+											<row1>0.096988 0.980873 -0.168762</row1>
+											<row2>0.015801 0.168022 0.985657</row2>
+											<row3>0 0 0.040766</row3>
+										</transform>
+										<node>
+											<identifier>RightHandThumb1</identifier>
+											<transform>
+												<row0>0.897485 0 0.441045</row0>
+												<row1>0.220315 0.866297 -0.44832</row1>
+												<row2>-0.382076 0.499529 0.777489</row2>
+												<row3>-0.002029 0.002599 0.004026</row3>
+											</transform>
+											<node>
+												<identifier>RightHandThumb2</identifier>
+												<transform>
+													<row0>1 0 0</row0>
+													<row1>0 0.989948 -0.141435</row1>
+													<row2>0 0.141435 0.989948</row2>
+													<row3>-0.000037 0 0.004163</row3>
+												</transform>
+												<node>
+													<identifier>RightHandThumb3</identifier>
+													<transform>
+														<row0>1 0 0</row0>
+														<row1>0 0.994382 0.105853</row1>
+														<row2>0 -0.105853 0.994382</row2>
+														<row3>-0.000071 0 0.005027</row3>
+													</transform>
+													<node>
+														<identifier>RightHandThumb4</identifier>
+														<transform>
+															<row0>1 0 0</row0>
+															<row1>0 1 0</row1>
+															<row2>0 0 1</row2>
+															<row3>0.000108 0 0.004519</row3>
+														</transform>
+													</node>
+												</node>
+											</node>
+										</node>
+										<node>
+											<identifier>RightHandIndex1</identifier>
+											<transform>
+												<row0>0.999865 0 0.016443</row0>
+												<row1>0.000698 0.999099 -0.042428</row1>
+												<row2>-0.016428 0.042433 0.998964</row2>
+												<row3>-0.004874 -0.000034 0.014454</row3>
+											</transform>
+											<node>
+												<identifier>RightHandIndex2</identifier>
+												<transform>
+													<row0>1 0 0</row0>
+													<row1>0 0.955303 -0.295629</row1>
+													<row2>0 0.295629 0.955303</row2>
+													<row3>-0.000005 0 0.003958</row3>
+												</transform>
+												<node>
+													<identifier>RightHandIndex3</identifier>
+													<transform>
+														<row0>1 0 0</row0>
+														<row1>0 0.996951 0.078031</row1>
+														<row2>0 -0.078031 0.996951</row2>
+														<row3>0.000004 0 0.003775</row3>
+													</transform>
+													<node>
+														<identifier>RightHandIndex4</identifier>
+														<transform>
+															<row0>1 0 0</row0>
+															<row1>0 1 0</row1>
+															<row2>0 0 1</row2>
+															<row3>0.000001 0 0.003178</row3>
+														</transform>
+													</node>
+												</node>
+											</node>
+										</node>
+										<node>
+											<identifier>RightHandMiddle1</identifier>
+											<transform>
+												<row0>0.999966 0 -0.008197</row0>
+												<row1>-0.000199 0.999706 -0.024232</row1>
+												<row2>0.008194 0.024233 0.999673</row2>
+												<row3>-0.001607 -0.000062 0.014308</row3>
+											</transform>
+											<node>
+												<identifier>RightHandMiddle2</identifier>
+												<transform>
+													<row0>1 0 0</row0>
+													<row1>0 0.980163 -0.198192</row1>
+													<row2>0 0.198192 0.980163</row2>
+													<row3>-0.000007 0 0.004238</row3>
+												</transform>
+												<node>
+													<identifier>RightHandMiddle3</identifier>
+													<transform>
+														<row0>1 0 0</row0>
+														<row1>0 0.999316 0.036982</row1>
+														<row2>0 -0.036982 0.999316</row2>
+														<row3>0.000004 0 0.004276</row3>
+													</transform>
+													<node>
+														<identifier>RightHandMiddle4</identifier>
+														<transform>
+															<row0>1 0 0</row0>
+															<row1>0 1 0</row1>
+															<row2>0 0 1</row2>
+															<row3>0.000003 0 0.003638</row3>
+														</transform>
+													</node>
+												</node>
+											</node>
+										</node>
+										<node>
+											<identifier>RightHandRing1</identifier>
+											<transform>
+												<row0>0.999994 0 0.003562</row0>
+												<row1>0.000255 0.99744 -0.071515</row1>
+												<row2>-0.003553 0.071515 0.997433</row2>
+												<row3>0.001666 -0.000157 0.014809</row3>
+											</transform>
+											<node>
+												<identifier>RightHandRing2</identifier>
+												<transform>
+													<row0>1 0 0</row0>
+													<row1>0 0.987037 -0.160495</row1>
+													<row2>0 0.160495 0.987037</row2>
+													<row3>-0.000006 0 0.004185</row3>
+												</transform>
+												<node>
+													<identifier>RightHandRing3</identifier>
+													<transform>
+														<row0>1 0 0</row0>
+														<row1>0 0.99137 -0.131097</row1>
+														<row2>0 0.131097 0.99137</row2>
+														<row3>0.000001 0 0.003876</row3>
+													</transform>
+													<node>
+														<identifier>RightHandRing4</identifier>
+														<transform>
+															<row0>1 0 0</row0>
+															<row1>0 1 0</row1>
+															<row2>0 0 1</row2>
+															<row3>0.000005 0 0.003339</row3>
+														</transform>
+													</node>
+												</node>
+											</node>
+										</node>
+										<node>
+											<identifier>RightHandPinky1</identifier>
+											<transform>
+												<row0>0.999499 0 0.031658</row0>
+												<row1>0.000562 0.999843 -0.017738</row1>
+												<row2>-0.031653 0.017747 0.999341</row2>
+												<row3>0.004814 0.000005 0.013909</row3>
+											</transform>
+											<node>
+												<identifier>RightHandPinky2</identifier>
+												<transform>
+													<row0>1 0 0</row0>
+													<row1>0 0.963605 -0.26733</row1>
+													<row2>0 0.26733 0.963605</row2>
+													<row3>-0.000002 0 0.003923</row3>
+												</transform>
+												<node>
+													<identifier>RightHandPinky3</identifier>
+													<transform>
+														<row0>1 0 0</row0>
+														<row1>0 0.998965 -0.045482</row1>
+														<row2>0 0.045482 0.998965</row2>
+														<row3>0.000001 0 0.003144</row3>
+													</transform>
+													<node>
+														<identifier>RightHandPinky4</identifier>
+														<transform>
+															<row0>1 0 0</row0>
+															<row1>0 1 0</row1>
+															<row2>0 0 1</row2>
+															<row3>0.000001 0 0.002471</row3>
+														</transform>
+													</node>
+												</node>
+											</node>
+										</node>
+									</node>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node>
+				<identifier>LeftUpLeg</identifier>
+				<transform>
+					<row0>-0.999822 -0.000573 -0.018881</row0>
+					<row1>-0.000242 0.999847 -0.017519</row1>
+					<row2>0.018889 -0.017512 -0.999668</row2>
+					<row3>-0.012877 -0.002371 -0.016047</row3>
+				</transform>
+				<node>
+					<identifier>LeftLeg</identifier>
+					<transform>
+						<row0>0.999302 0.000769 -0.03736</row0>
+						<row1>0.000186 0.999673 0.025562</row1>
+						<row2>0.037367 -0.025551 0.998975</row2>
+						<row3>-0.000185 -0.000172 0.057204</row3>
+					</transform>
+					<node>
+						<identifier>LeftFoot</identifier>
+						<transform>
+							<row0>0.99494 0.100225 0.007075</row0>
+							<row1>-0.048178 0.537694 -0.841763</row1>
+							<row2>-0.08817 0.837162 0.539801</row2>
+							<row3>0 0 0.068268</row3>
+						</transform>
+						<node>
+							<identifier>LeftToeBase</identifier>
+							<transform>
+								<row0>0.999918 -0.012836 0</row0>
+								<row1>0.010292 0.801703 -0.597634</row1>
+								<row2>0.007671 0.597585 0.801769</row2>
+								<row3>0 0 0.021641</row3>
+							</transform>
+							<node>
+								<identifier>LeftToe_End</identifier>
+								<transform>
+									<row0>1 0 0</row0>
+									<row1>0 1 0</row1>
+									<row2>0 0 1</row2>
+									<row3>0 0 0.007939</row3>
+								</transform>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node>
+				<identifier>RightUpLeg</identifier>
+				<transform>
+					<row0>-0.999823 0.000632 0.018824</row0>
+					<row1>0.000237 0.99978 -0.020958</row1>
+					<row2>-0.018833 -0.02095 -0.999603</row2>
+					<row3>0.012878 -0.002377 -0.016047</row3>
+				</transform>
+				<node>
+					<identifier>RightLeg</identifier>
+					<transform>
+						<row0>0.999301 -0.000691 0.037365</row0>
+						<row1>-0.000007 0.999826 0.018662</row1>
+						<row2>-0.037371 -0.01865 0.999127</row2>
+						<row3>0.000185 -0.000206 0.057202</row3>
+					</transform>
+					<node>
+						<identifier>RightFoot</identifier>
+						<transform>
+							<row0>0.995085 -0.09875 -0.007304</row0>
+							<row1>0.046844 0.534456 -0.843897</row1>
+							<row2>0.087238 0.839408 0.536455</row2>
+							<row3>0 0 0.068265</row3>
+						</transform>
+						<node>
+							<identifier>RightToeBase</identifier>
+							<transform>
+								<row0>0.999923 0.012445 0</row0>
+								<row1>-0.010036 0.806315 -0.591401</row1>
+								<row2>-0.00736 0.591355 0.806378</row2>
+								<row3>0 0 0.021871</row3>
+							</transform>
+							<node>
+								<identifier>RightToe_End</identifier>
+								<transform>
+									<row0>1 0 0</row0>
+									<row1>0 1 0</row1>
+									<row2>0 0 1</row2>
+									<row3>0 0 0.008038</row3>
+								</transform>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+	</node>
+	<StaticBoundingBox>
+		<min>-0.100315 0.000994 -0.021684</min>
+		<max>0.100216 0.25311 0.030315</max>
+	</StaticBoundingBox>
+</Root>
