@@ -16445,7 +16445,7 @@
                         "__tuple__": true, 
                         "items": [
                             51.578947368421055, 
-                            156.8729630435806
+                            156.6265060240964
                         ]
                     }, 
                     "scale": {
@@ -16636,7 +16636,7 @@
             "pos_percent": {
                 "__tuple__": true, 
                 "items": [
-                    25.277779897054035, 
+                    25.260416666666668, 
                     90.27777777777779
                 ]
             }, 
@@ -17823,7 +17823,7 @@
                                                             "pos_percent": {
                                                                 "__tuple__": true, 
                                                                 "items": [
-                                                                    244.44446563720703, 
+                                                                    237.5, 
                                                                     50.0
                                                                 ]
                                                             }, 
@@ -18667,8 +18667,8 @@
                     "pos_percent": {
                         "__tuple__": true, 
                         "items": [
-                            12.547916666666667, 
-                            50.000250244140624
+                            12.533333333333333, 
+                            50.0
                         ]
                     }, 
                     "size": {
@@ -20763,7 +20763,7 @@
                     "pos_percent": {
                         "__tuple__": true, 
                         "items": [
-                            21.343893656561455, 
+                            21.7391362037025, 
                             72.22222222222221
                         ]
                     }, 
@@ -20939,7 +20939,7 @@
             "pos_percent": {
                 "__tuple__": true, 
                 "items": [
-                    50.72916666666666, 
+                    50.72916666666667, 
                     7.685185185185185
                 ]
             }, 
@@ -21000,7 +21000,7 @@
                                     "children": [], 
                                     "comp_anims": [], 
                                     "event_list": [], 
-                                    "name": "button_1", 
+                                    "name": "button_6", 
                                     "normal_picture": 108527, 
                                     "normal_text": {
                                         "__tuple__": true, 
@@ -21037,7 +21037,7 @@
                                     "children": [], 
                                     "comp_anims": [], 
                                     "event_list": [], 
-                                    "name": "button_1", 
+                                    "name": "button_8", 
                                     "normal_picture": 108527, 
                                     "normal_text": {
                                         "__tuple__": true, 
@@ -21096,8 +21096,7 @@
                                 ]
                             }, 
                             "type": 9, 
-                            "uid": "7efd814d-c200-458b-a43b-ce88fa270eee", 
-                            "visible": false
+                            "uid": "7efd814d-c200-458b-a43b-ce88fa270eee"
                         }, 
                         {
                             "children": [], 
@@ -21186,11 +21185,11 @@
                                 ]
                             }, 
                             "type": 9, 
-                            "uid": "1688d1f6-29e2-4e6b-82e9-bbb394a9daff"
+                            "uid": "1688d1f6-29e2-4e6b-82e9-bbb394a9daff", 
+                            "visible": false
                         }
                     ], 
                     "comp_anims": [], 
-                    "cur_page_index": 4, 
                     "event_list": [], 
                     "layout_type": 1, 
                     "name": "Skills", 
@@ -21205,7 +21204,7 @@
                     "pos_percent": {
                         "__tuple__": true, 
                         "items": [
-                            43.17057889239279, 
+                            43.136288768084306, 
                             49.937274640268335
                         ]
                     }, 
