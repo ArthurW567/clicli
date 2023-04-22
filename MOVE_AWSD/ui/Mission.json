@@ -1,0 +1,110 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "comp_anims": [], 
+                            "event_list": [], 
+                            "image": 131177, 
+                            "name": "image_17", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    272.0, 
+                                    40.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    126.68350431057698, 
+                                    50.574730384118226
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    41.714263916015625, 
+                                    39.428558349609375
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "405fa6e1-be0b-421b-98a3-7a598a29a311", 
+                            "visible": false
+                        }
+                    ], 
+                    "comp_anims": [], 
+                    "event_list": [], 
+                    "name": "label_5", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            213.44244384765625, 
+                            50.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            49.394324578338164, 
+                            50.31264221827654
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            215.6103973388672, 
+                            79.09088134765625
+                        ]
+                    }, 
+                    "text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "mission", 
+                            false
+                        ]
+                    }, 
+                    "type": 3, 
+                    "uid": "08edd1b9-4dc8-41a5-9514-d38fe5a38ea3"
+                }
+            ], 
+            "comp_anims": [], 
+            "event_list": [], 
+            "image": 131752, 
+            "name": "image_10", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    324.0, 
+                    712.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    16.875, 
+                    66.09427558051215
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    432.119384765625, 
+                    99.37860107421875
+                ]
+            }, 
+            "type": 4, 
+            "uid": "16964e51-ac51-49a5-b112-c42b47f56816"
+        }
+    ], 
+    "editor_visible": false, 
+    "name": "Mission", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "uid": "0c01c513-4934-4b7f-8ac5-244eb7cdc378", 
+    "visible": true, 
+    "zorder": 400
+}

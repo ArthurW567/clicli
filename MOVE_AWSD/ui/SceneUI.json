@@ -1,6 +1,21 @@
 {
     "children": [
         {
+            "children": [], 
+            "comp_anims": [], 
+            "event_list": [], 
+            "name": "layout_4", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "6b418e8c-3c3f-412e-82a9-5bc1e13c08f8"
+        }, 
+        {
             "children": [
                 {
                     "children": [], 
@@ -14,7 +29,7 @@
                                     "anim_type": 0, 
                                     "comp": "4d339294-3d57-4715-bcb0-070ee4049754", 
                                     "ease_type": 0, 
-                                    "name": "Show_26", 
+                                    "name": "Show_1", 
                                     "open_timeline": true, 
                                     "type": 2
                                 }
@@ -56,21 +71,6 @@
             }, 
             "type": 7, 
             "uid": "8ba2e137-2e5e-4ea4-bb00-1e3b172ed992"
-        }, 
-        {
-            "children": [], 
-            "comp_anims": [], 
-            "event_list": [], 
-            "name": "layout_4", 
-            "pos": {
-                "__tuple__": true, 
-                "items": [
-                    960.0, 
-                    540.0
-                ]
-            }, 
-            "type": 7, 
-            "uid": "6b418e8c-3c3f-412e-82a9-5bc1e13c08f8"
         }
     ], 
     "editor_visible": false, 

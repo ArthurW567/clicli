@@ -1,0 +1,63 @@
+{
+    "destructible": {
+        "3": {
+            "components": {
+                "attr": {}, 
+                "camp": {
+                    "role_id": 32
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -31, 
+                                2937733120
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                174, 
+                                2879782912
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201359127, 
+            "name": "\u95e8", 
+            "type": 256, 
+            "unit_id": 3
+        }
+    }
+}

@@ -1,4 +1,12 @@
 {
+    "#className#1#text": {
+        "key": "#className#1#text", 
+        "value": "#label_21#text"
+    }, 
+    "#className#4#text": {
+        "key": "#className#4#text", 
+        "value": "#label_24#text"
+    }, 
     "$faction 1": {
         "key": "$faction 1", 
         "value": "Faction 1"

@@ -1,0 +1,237 @@
+{
+    "_custom_": true, 
+    "_ref_": 134248065, 
+    "attach_models": [
+        {
+            "cast_shadow": true, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 103623, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    1.8868817687034607, 
+                    4.299999237060547, 
+                    0.0
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    8.847355753762208e-15, 
+                    89.99999999999999, 
+                    0.0000020137847266056124
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.0000000000000007, 
+                    1.0000000000000007, 
+                    1.0
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 103623, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -1.8769801259040833, 
+                    4.300000190734863, 
+                    0.0
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    90.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 103623, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    5.649016559123993, 
+                    4.299999237060547, 
+                    0.0
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    8.847355753762208e-15, 
+                    89.99999999999999, 
+                    0.0000020137847266056124
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.0000000000000007, 
+                    1.0000000000000007, 
+                    1.0
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 0, 
+            "material_change": 0, 
+            "material_color": {
+                "__tuple__": true, 
+                "items": [
+                    255, 
+                    255, 
+                    255
+                ]
+            }, 
+            "material_color_intensity": 0, 
+            "model": 103623, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -5.65891820192337, 
+                    4.300000190734863, 
+                    0.0
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    90.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "use_physics": false
+        }
+    ], 
+    "cast_shadow": true, 
+    "collision_box": {
+        "__tuple__": true, 
+        "items": [
+            [
+                -5, 
+                5
+            ], 
+            [
+                -5, 
+                -5
+            ], 
+            [
+                5, 
+                -5
+            ], 
+            [
+                5, 
+                5
+            ]
+        ]
+    }, 
+    "collision_height": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "collision_points": {
+        "__tuple__": true, 
+        "items": [
+            [
+                -2, 
+                -2
+            ], 
+            [
+                1, 
+                1
+            ], 
+            0
+        ]
+    }, 
+    "description": -1984375629, 
+    "effect_list": [], 
+    "icon": 100000, 
+    "key": 134248065, 
+    "kv": {}, 
+    "material_alpha": 0, 
+    "material_change": 0, 
+    "material_color": {
+        "__tuple__": true, 
+        "items": [
+            255, 
+            255, 
+            255
+        ]
+    }, 
+    "material_color_intensity": 0, 
+    "model": 103014, 
+    "name": 1927915359, 
+    "receive_decal": false, 
+    "scale": 1.0, 
+    "suffix": "", 
+    "tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "uid": "134248065", 
+    "use_physics": false
+}

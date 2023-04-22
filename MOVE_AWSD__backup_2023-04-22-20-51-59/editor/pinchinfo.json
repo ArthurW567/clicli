@@ -1,0 +1,41 @@
+{
+ "f": [
+  {
+   "__tuple__": true, 
+   "items": [
+    "", 
+    0, 
+    2147483646, 
+    "code_explorer_official_root_folder_name"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483646", 
+    0, 
+    "Ax2bwLYlEeylPAMX7vcUqz", 
+    "code_Role"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483646/Ax2bwLYlEeylPAMX7vcUqz", 
+    0, 
+    "Ax3C0bYlEeyAdwMX7vcUq1", 
+    "code_Human"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "", 
+    1, 
+    2147483647, 
+    "code_explorer_custom_root_folder_name"
+   ]
+  }
+ ], 
+ "d": {}
+}

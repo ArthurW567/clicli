@@ -359,9 +359,13 @@
         "key": 2119268639, 
         "value": "\u8fd9\u662f\u4e00\u4e2a\u82f1\u96c4"
     }, 
+    "#08edd1b9-4dc8-41a5-9514-d38fe5a38ea3#text": {
+        "key": "#08edd1b9-4dc8-41a5-9514-d38fe5a38ea3#text", 
+        "value": "mission"
+    }, 
     "#1688d1f6-29e2-4e6b-82e9-bbb394a9daff#text": {
         "key": "#1688d1f6-29e2-4e6b-82e9-bbb394a9daff#text", 
-        "value": "Drugger"
+        "value": "\u836f\u5242\u5e08"
     }, 
     "#35d0f150-db09-41ba-95e7-f34f46a75b0c#text": {
         "key": "#35d0f150-db09-41ba-95e7-f34f46a75b0c#text", 
@@ -373,7 +377,7 @@
     }, 
     "#4c78ae51-da8d-43ca-9037-fa399e4b74c3#text": {
         "key": "#4c78ae51-da8d-43ca-9037-fa399e4b74c3#text", 
-        "value": "Hunter"
+        "value": "\u730e\u4eba"
     }, 
     "#6346de44-ea23-4d8c-819a-d8f76a2d1a98#normal_text": {
         "key": "#6346de44-ea23-4d8c-819a-d8f76a2d1a98#normal_text", 
@@ -385,15 +389,23 @@
     }, 
     "#7efd814d-c200-458b-a43b-ce88fa270eee#text": {
         "key": "#7efd814d-c200-458b-a43b-ce88fa270eee#text", 
-        "value": "Worrior"
+        "value": "\u6218\u58eb"
     }, 
     "#9c9d23dc-3a02-4f9b-a4d8-3ac67b6e06d1#normal_text": {
         "key": "#9c9d23dc-3a02-4f9b-a4d8-3ac67b6e06d1#normal_text", 
         "value": "Skill01"
     }, 
+    "#className#1#text": {
+        "key": "#className#1#text", 
+        "value": "#label_21#text"
+    }, 
+    "#className#4#text": {
+        "key": "#className#4#text", 
+        "value": "#label_24#text"
+    }, 
     "#f384824a-fe16-43b5-82b7-ed87ee1b409b#text": {
         "key": "#f384824a-fe16-43b5-82b7-ed87ee1b409b#text", 
-        "value": "Magician"
+        "value": "\u9b54\u6cd5\u5e08"
     }, 
     "$faction 1": {
         "key": "$faction 1", 
