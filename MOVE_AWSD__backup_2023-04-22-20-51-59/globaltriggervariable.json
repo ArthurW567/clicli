@@ -1,0 +1,263 @@
+{
+    "local_variable": {
+        "326344714": {
+            "variable_dict": {
+                "INTEGER": {
+                    "IconKey": 0
+                }, 
+                "STRING": {
+                    "TalkKey": ""
+                }, 
+                "UNIT_ENTITY": {
+                    "NPC": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "IconKey": 0, 
+                "NPC": 0, 
+                "TalkKey": 0
+            }, 
+            "variable_type_dict": {
+                "IconKey": false, 
+                "NPC": false, 
+                "TalkKey": false
+            }
+        }, 
+        "641339403": {
+            "variable_dict": {
+                "INTEGER": {
+                    "x": 0, 
+                    "z": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "x": 0, 
+                "z": 0
+            }, 
+            "variable_type_dict": {
+                "x": false, 
+                "z": false
+            }
+        }, 
+        "1085132814": {
+            "variable_dict": {
+                "FLOAT": {
+                    "angletemp": 0.0, 
+                    "distanceX": 0.0, 
+                    "distanceZ": 0.0, 
+                    "modify": 0.0, 
+                    "speed": 0.0
+                }, 
+                "POINT": {
+                    "pointaim": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "angletemp": 0, 
+                "distanceX": 0, 
+                "distanceZ": 0, 
+                "modify": 0, 
+                "pointaim": 0, 
+                "speed": 0, 
+                "unit": 0
+            }, 
+            "variable_type_dict": {
+                "angletemp": false, 
+                "distanceX": false, 
+                "distanceZ": false, 
+                "modify": false, 
+                "pointaim": false, 
+                "speed": false, 
+                "unit": false
+            }
+        }, 
+        "1473126409": {
+            "variable_dict": {
+                "FLOAT": {
+                    "distance": 0.0
+                }
+            }, 
+            "variable_length_dict": {
+                "distance": 0
+            }, 
+            "variable_type_dict": {
+                "distance": false
+            }
+        }, 
+        "1504256008": {
+            "variable_dict": {
+                "FLOAT": {
+                    "distance": 0.0
+                }, 
+                "UNIT_ENTITY": {
+                    "NPC": 0, 
+                    "hero": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "NPC": 0, 
+                "distance": 0, 
+                "hero": 0
+            }, 
+            "variable_type_dict": {
+                "NPC": false, 
+                "distance": false, 
+                "hero": false
+            }
+        }, 
+        "1596440589": {
+            "variable_dict": {
+                "ABILITY": {
+                    "\u5b66\u4e60\u6280\u80fd": null
+                }, 
+                "ABILITY_NAME": {
+                    "\u83b7\u5f97\u6280\u80fd": 0
+                }, 
+                "STRING": {
+                    "\u6280\u80fd": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "\u5b66\u4e60\u6280\u80fd": 0, 
+                "\u6280\u80fd": 0, 
+                "\u83b7\u5f97\u6280\u80fd": 0
+            }, 
+            "variable_type_dict": {
+                "\u5b66\u4e60\u6280\u80fd": false, 
+                "\u6280\u80fd": false, 
+                "\u83b7\u5f97\u6280\u80fd": false
+            }
+        }
+    }, 
+    "variable_comments": {}, 
+    "variable_dict": {
+        "BOOLEAN": {
+            "BoolKey": false, 
+            "ChatState": false, 
+            "Switch": false
+        }, 
+        "FLOAT": {
+            "moveAngle": 0.0, 
+            "moveAngleTemp": 0.0
+        }, 
+        "INTEGER": {
+            "moveX": 0, 
+            "moveZ": 0
+        }, 
+        "STRING": {
+            "CommandMode": "stand", 
+            "CommandModeTemp": "stand"
+        }, 
+        "UNIT_ENTITY": {
+            "unitHero": 0
+        }, 
+        "UNIT_NAME": {}, 
+        "UNIT_WRITE_ATTRIBUTE": {}
+    }, 
+    "variable_group_info": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "BoolKey", 
+                "(BoolKey)"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "moveAngle", 
+                "(moveAngle)"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "moveAngleTemp", 
+                "(moveAngleTemp)"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "CommandModeTemp", 
+                "(CommandModeTemp)"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "CommandMode", 
+                "(CommandMode)"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "unitHero", 
+                "(unitHero)"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "moveX", 
+                "(moveX)"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "moveZ", 
+                "(moveZ)"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "ChatState", 
+                "ChatState"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "Switch", 
+                "Switch"
+            ]
+        }
+    ], 
+    "variable_length_dict": {
+        "BoolKey": 10, 
+        "ChatState": 0, 
+        "CommandMode": 0, 
+        "CommandModeTemp": 0, 
+        "Switch": 0, 
+        "moveAngle": 0, 
+        "moveAngleTemp": 0, 
+        "moveX": 0, 
+        "moveZ": 0, 
+        "unitHero": 0
+    }, 
+    "variable_type_dict": {
+        "BoolKey": true, 
+        "ChatState": false, 
+        "CommandMode": false, 
+        "CommandModeTemp": false, 
+        "Switch": false, 
+        "moveAngle": false, 
+        "moveAngleTemp": false, 
+        "moveX": false, 
+        "moveZ": false, 
+        "unitHero": false
+    }
+}

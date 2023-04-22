@@ -1,0 +1,27 @@
+{
+    "describe": -316327810, 
+    "key": 104620, 
+    "map_name": "H69\u8bf8\u795e\u9ec4\u660f3", 
+    "model_id": 280595, 
+    "name": 466610691, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_tag_model_Realistic", 
+            "code_tag_model_Magic", 
+            "code_tag_model_Stone", 
+            "code_tag_model_Pillar", 
+            "code_tag_model_Brick"
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/104620", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "res_identify": "", 
+    "select_effect_scale": 10.0, 
+    "socket_info": {}, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_104620"
+}

@@ -1,0 +1,152 @@
+{
+    "first_init_ui_editor": true, 
+    "ui_data": [
+        {
+            "children": [], 
+            "editor_visible": false, 
+            "name": "panel_1", 
+            "opacity": 1.0, 
+            "type": 2, 
+            "visible": true, 
+            "zorder": 400
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "event_list": [], 
+                    "image": 106331, 
+                    "name": "image_9", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            960.0, 
+                            637.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.0, 
+                            58.98148148148148
+                        ]
+                    }, 
+                    "size": [
+                        695.0625, 
+                        418.5
+                    ], 
+                    "type": 4
+                }, 
+                {
+                    "children": [], 
+                    "event_list": [
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "Defeat_Back_Hall", 
+                            "type": 11
+                        }
+                    ], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "", 
+                            24
+                        ]
+                    }, 
+                    "name": "button_8", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            960.0, 
+                            429.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.0, 
+                            39.72222222222222
+                        ]
+                    }, 
+                    "type": 1
+                }
+            ], 
+            "editor_visible": false, 
+            "name": "loss", 
+            "opacity": 1.0, 
+            "type": 2, 
+            "visible": true, 
+            "zorder": 400
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "event_list": [], 
+                    "image": 106330, 
+                    "name": "image_8", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            960.0, 
+                            637.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.0, 
+                            58.98148148148148
+                        ]
+                    }, 
+                    "size": [
+                        695.0625, 
+                        418.5
+                    ], 
+                    "type": 4
+                }, 
+                {
+                    "children": [], 
+                    "event_list": [
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "Victory_Back_Hall", 
+                            "type": 11
+                        }
+                    ], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "", 
+                            24
+                        ]
+                    }, 
+                    "name": "button_6", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            960.0, 
+                            429.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.0, 
+                            39.72222222222222
+                        ]
+                    }, 
+                    "type": 1
+                }
+            ], 
+            "editor_visible": false, 
+            "name": "win", 
+            "opacity": 1.0, 
+            "type": 2, 
+            "visible": true, 
+            "zorder": 400
+        }
+    ]
+}

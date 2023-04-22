@@ -1,0 +1,34 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "comp_anims": [], 
+            "event_list": [], 
+            "image": 134246131, 
+            "name": "image_7", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1090.9999389648438, 
+                    368.50001525878906
+                ]
+            }, 
+            "type": 4, 
+            "uid": "43c651ee-7457-4c35-b8cb-e572552c44db"
+        }
+    ], 
+    "editor_visible": false, 
+    "name": "class", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "uid": "2cdb2bbc-f58c-4b86-829c-1dfab49b7382", 
+    "visible": true, 
+    "zorder": 400
+}
