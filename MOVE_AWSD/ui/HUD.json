@@ -18710,10 +18710,6 @@
                 ]
             }, 
             "type": 10, 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of 9ef9fc5 (UI new)
             "uid": "fb9f34ae-5a90-4907-94d5-b17570cb1438", 
             "visible": false
         }, 
@@ -21250,12 +21246,6 @@
             "type": 7, 
             "uid": "5564e1e5-0a73-4988-ae4a-6c4ba658ce77", 
             "visible": false
-<<<<<<< HEAD
-=======
-            "uid": "fb9f34ae-5a90-4907-94d5-b17570cb1438"
->>>>>>> 9ef9fc5a26a03505614d4707cc183d72bd78880b
-=======
->>>>>>> parent of 9ef9fc5 (UI new)
         }
     ], 
     "editor_visible": false, 
