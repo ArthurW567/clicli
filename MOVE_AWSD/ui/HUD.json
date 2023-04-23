@@ -21074,6 +21074,13 @@
                             "comp_anims": [], 
                             "event_list": [], 
                             "name": "worrior", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    887.3133850097656, 
+                                    350
+                                ]
+                            }, 
                             "pos_percent": {
                                 "__tuple__": true, 
                                 "items": [
@@ -21103,6 +21110,13 @@
                             "comp_anims": [], 
                             "event_list": [], 
                             "name": "pag_2", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    887.3133850097656, 
+                                    350
+                                ]
+                            }, 
                             "pos_percent": {
                                 "__tuple__": true, 
                                 "items": [
@@ -21133,6 +21147,13 @@
                             "comp_anims": [], 
                             "event_list": [], 
                             "name": "pag_3", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    887.3133850097656, 
+                                    350
+                                ]
+                            }, 
                             "pos_percent": {
                                 "__tuple__": true, 
                                 "items": [
@@ -21163,6 +21184,13 @@
                             "comp_anims": [], 
                             "event_list": [], 
                             "name": "pag_4", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    887.3133850097656, 
+                                    350
+                                ]
+                            }, 
                             "pos_percent": {
                                 "__tuple__": true, 
                                 "items": [
