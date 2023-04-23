@@ -335,10 +335,6 @@
         "key": 1863445266, 
         "value": "\u88c5\u9970\u7269\u6a21\u677f1\u7684\u63cf\u8ff0"
     }, 
-    "1867470090": {
-        "key": 1867470090, 
-        "value": "<html><body><p>\u901a\u7528 \u8fd1\u6218\u653b\u51fb</p></body></html>"
-    }, 
     "1889336940": {
         "key": 1889336940, 
         "value": "1"
@@ -413,7 +409,7 @@
     }, 
     "$player 2": {
         "key": "$player 2", 
-        "value": "\u73a9\u5bb6 2"
+        "value": "AI"
     }, 
     "$player 31": {
         "key": "$player 31", 

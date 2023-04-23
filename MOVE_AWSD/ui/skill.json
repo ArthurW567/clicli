@@ -1253,7 +1253,7 @@
             "skill_level_label": "b14c69ec-6214-485f-b1ce-0eae5aa00b8a", 
             "skill_shortcut_label": "dc9c9f8a-a690-415d-9411-9814fb8ada9f", 
             "skill_stack_label": "22bd27dd-ee64-4ed8-8151-fd432b81e6c1", 
-            "skill_type": 1, 
+            "skill_type": 3, 
             "skill_upgrade_btn": "none_ref", 
             "slot_id": 3, 
             "swallow_touches": true, 
@@ -1667,7 +1667,7 @@
             "uid": "42c2c2a5-0522-477a-b856-72b2b3e7b6b8"
         }
     ], 
-    "editor_visible": true, 
+    "editor_visible": false, 
     "name": "skill", 
     "opacity": 1.0, 
     "type": 2, 
