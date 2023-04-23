@@ -30,8 +30,7 @@
                         ]
                     }, 
                     "type": 4, 
-                    "uid": "8486230c-0256-4dcb-8317-0c615d4e97cf", 
-                    "visible": false
+                    "uid": "8486230c-0256-4dcb-8317-0c615d4e97cf"
                 }, 
                 {
                     "children": [], 
@@ -61,8 +60,7 @@
                         ]
                     }, 
                     "type": 4, 
-                    "uid": "23fff3a1-8de8-4b3b-9140-3f7fef9c4ef6", 
-                    "visible": false
+                    "uid": "23fff3a1-8de8-4b3b-9140-3f7fef9c4ef6"
                 }, 
                 {
                     "adapter_option": [
@@ -113,8 +111,7 @@
                         ]
                     }, 
                     "type": 5, 
-                    "uid": "4906528f-220f-4d81-9a22-14e8354b61d2", 
-                    "visible": false
+                    "uid": "4906528f-220f-4d81-9a22-14e8354b61d2"
                 }, 
                 {
                     "alignment": {
@@ -160,8 +157,7 @@
                         ]
                     }, 
                     "type": 3, 
-                    "uid": "247954c0-afd5-4350-a6c4-6c6d9e7ebfe1", 
-                    "visible": false
+                    "uid": "247954c0-afd5-4350-a6c4-6c6d9e7ebfe1"
                 }, 
                 {
                     "children": [], 
@@ -204,8 +200,7 @@
                         ]
                     }, 
                     "type": 3, 
-                    "uid": "a758432c-86d4-478c-989b-19c317a5db39", 
-                    "visible": false
+                    "uid": "a758432c-86d4-478c-989b-19c317a5db39"
                 }, 
                 {
                     "adapter_option": [
@@ -258,8 +253,7 @@
                         ]
                     }, 
                     "type": 3, 
-                    "uid": "b2b475d9-8ef4-408c-b310-d51cc996acba", 
-                    "visible": false
+                    "uid": "b2b475d9-8ef4-408c-b310-d51cc996acba"
                 }, 
                 {
                     "adapter_option": [
@@ -312,8 +306,7 @@
                         ]
                     }, 
                     "type": 3, 
-                    "uid": "0127b1d2-65e1-46d0-80e1-f24f22f62d3c", 
-                    "visible": false
+                    "uid": "0127b1d2-65e1-46d0-80e1-f24f22f62d3c"
                 }, 
                 {
                     "adapter_option": [
@@ -355,8 +348,7 @@
                         ]
                     }, 
                     "type": 4, 
-                    "uid": "fea034a1-6ad5-43ad-b7d8-0c9da13e79c5", 
-                    "visible": false
+                    "uid": "fea034a1-6ad5-43ad-b7d8-0c9da13e79c5"
                 }, 
                 {
                     "adapter_option": [
@@ -398,8 +390,7 @@
                         ]
                     }, 
                     "type": 4, 
-                    "uid": "88c41f5a-d4be-4a4d-9294-54db0b4f6c7d", 
-                    "visible": false
+                    "uid": "88c41f5a-d4be-4a4d-9294-54db0b4f6c7d"
                 }
             ], 
             "comp_anims": [], 
@@ -434,8 +425,7 @@
             "slot_id": 1, 
             "swallow_touches": true, 
             "type": 17, 
-            "uid": "1aaf7ace-c7f3-4a5b-80ce-7361aabc4258", 
-            "visible": false
+            "uid": "1aaf7ace-c7f3-4a5b-80ce-7361aabc4258"
         }, 
         {
             "children": [
@@ -467,8 +457,7 @@
                         ]
                     }, 
                     "type": 4, 
-                    "uid": "191ddb38-4b83-4bc5-95c8-5adc443546c5", 
-                    "visible": false
+                    "uid": "191ddb38-4b83-4bc5-95c8-5adc443546c5"
                 }, 
                 {
                     "children": [], 
@@ -498,8 +487,7 @@
                         ]
                     }, 
                     "type": 4, 
-                    "uid": "9c0db47b-2753-4499-91f6-5db903cd591a", 
-                    "visible": false
+                    "uid": "9c0db47b-2753-4499-91f6-5db903cd591a"
                 }, 
                 {
                     "adapter_option": [
@@ -550,8 +538,7 @@
                         ]
                     }, 
                     "type": 5, 
-                    "uid": "e29930ac-c34a-419e-90e7-8899bf7e9fcb", 
-                    "visible": false
+                    "uid": "e29930ac-c34a-419e-90e7-8899bf7e9fcb"
                 }, 
                 {
                     "alignment": {
@@ -597,8 +584,7 @@
                         ]
                     }, 
                     "type": 3, 
-                    "uid": "21f06c40-2bb3-4f46-8277-8d3a4fbf1662", 
-                    "visible": false
+                    "uid": "21f06c40-2bb3-4f46-8277-8d3a4fbf1662"
                 }, 
                 {
                     "children": [], 
@@ -641,8 +627,7 @@
                         ]
                     }, 
                     "type": 3, 
-                    "uid": "608bde79-e6ae-449c-8de6-41d48daa1b2f", 
-                    "visible": false
+                    "uid": "608bde79-e6ae-449c-8de6-41d48daa1b2f"
                 }, 
                 {
                     "adapter_option": [
@@ -695,8 +680,7 @@
                         ]
                     }, 
                     "type": 3, 
-                    "uid": "e8c6b67a-b056-403c-bcd6-3e0957177f8b", 
-                    "visible": false
+                    "uid": "e8c6b67a-b056-403c-bcd6-3e0957177f8b"
                 }, 
                 {
                     "adapter_option": [
@@ -749,8 +733,7 @@
                         ]
                     }, 
                     "type": 3, 
-                    "uid": "c5c1479d-3eb3-4f04-99c3-f70d54dd31bb", 
-                    "visible": false
+                    "uid": "c5c1479d-3eb3-4f04-99c3-f70d54dd31bb"
                 }, 
                 {
                     "adapter_option": [
@@ -792,8 +775,7 @@
                         ]
                     }, 
                     "type": 4, 
-                    "uid": "392eed9b-a961-4b4f-91b6-5e4cd3a3a20f", 
-                    "visible": false
+                    "uid": "392eed9b-a961-4b4f-91b6-5e4cd3a3a20f"
                 }, 
                 {
                     "adapter_option": [
@@ -835,8 +817,7 @@
                         ]
                     }, 
                     "type": 4, 
-                    "uid": "af4d9e98-1f9b-417c-a8e6-b5be7c0b6d2e", 
-                    "visible": false
+                    "uid": "af4d9e98-1f9b-417c-a8e6-b5be7c0b6d2e"
                 }
             ], 
             "comp_anims": [], 
@@ -871,8 +852,7 @@
             "slot_id": 2, 
             "swallow_touches": true, 
             "type": 17, 
-            "uid": "658f1557-c6d4-4173-b2b6-893f1b97a21a", 
-            "visible": false
+            "uid": "658f1557-c6d4-4173-b2b6-893f1b97a21a"
         }, 
         {
             "children": [
@@ -904,8 +884,7 @@
                         ]
                     }, 
                     "type": 4, 
-                    "uid": "ea1735db-e31c-40b0-8af9-9e3cfeec78b0", 
-                    "visible": false
+                    "uid": "ea1735db-e31c-40b0-8af9-9e3cfeec78b0"
                 }, 
                 {
                     "children": [], 
@@ -935,8 +914,7 @@
                         ]
                     }, 
                     "type": 4, 
-                    "uid": "291c0330-3c2c-46f6-ab26-ca7b31f2bfa9", 
-                    "visible": false
+                    "uid": "291c0330-3c2c-46f6-ab26-ca7b31f2bfa9"
                 }, 
                 {
                     "adapter_option": [
@@ -987,8 +965,7 @@
                         ]
                     }, 
                     "type": 5, 
-                    "uid": "fde67e71-0af3-45d8-a2a4-a377d689b749", 
-                    "visible": false
+                    "uid": "fde67e71-0af3-45d8-a2a4-a377d689b749"
                 }, 
                 {
                     "alignment": {
@@ -1034,8 +1011,7 @@
                         ]
                     }, 
                     "type": 3, 
-                    "uid": "69ae967c-cdee-4d8c-9d09-2c2227fec11c", 
-                    "visible": false
+                    "uid": "69ae967c-cdee-4d8c-9d09-2c2227fec11c"
                 }, 
                 {
                     "children": [], 
@@ -1078,8 +1054,7 @@
                         ]
                     }, 
                     "type": 3, 
-                    "uid": "b14c69ec-6214-485f-b1ce-0eae5aa00b8a", 
-                    "visible": false
+                    "uid": "b14c69ec-6214-485f-b1ce-0eae5aa00b8a"
                 }, 
                 {
                     "adapter_option": [
@@ -1132,8 +1107,7 @@
                         ]
                     }, 
                     "type": 3, 
-                    "uid": "22bd27dd-ee64-4ed8-8151-fd432b81e6c1", 
-                    "visible": false
+                    "uid": "22bd27dd-ee64-4ed8-8151-fd432b81e6c1"
                 }, 
                 {
                     "adapter_option": [
@@ -1186,8 +1160,7 @@
                         ]
                     }, 
                     "type": 3, 
-                    "uid": "dc9c9f8a-a690-415d-9411-9814fb8ada9f", 
-                    "visible": false
+                    "uid": "dc9c9f8a-a690-415d-9411-9814fb8ada9f"
                 }, 
                 {
                     "adapter_option": [
@@ -1229,8 +1202,7 @@
                         ]
                     }, 
                     "type": 4, 
-                    "uid": "f1cfd155-5226-4046-9866-1be705effcfd", 
-                    "visible": false
+                    "uid": "f1cfd155-5226-4046-9866-1be705effcfd"
                 }, 
                 {
                     "adapter_option": [
@@ -1272,8 +1244,7 @@
                         ]
                     }, 
                     "type": 4, 
-                    "uid": "d10d1804-cc0f-4aba-aa04-043b9eb60a3d", 
-                    "visible": false
+                    "uid": "d10d1804-cc0f-4aba-aa04-043b9eb60a3d"
                 }
             ], 
             "comp_anims": [], 
@@ -1308,8 +1279,7 @@
             "slot_id": 3, 
             "swallow_touches": true, 
             "type": 17, 
-            "uid": "54c2651b-2523-4273-b2f3-e5eaf9af521e", 
-            "visible": false
+            "uid": "54c2651b-2523-4273-b2f3-e5eaf9af521e"
         }, 
         {
             "children": [
@@ -1341,8 +1311,7 @@
                         ]
                     }, 
                     "type": 4, 
-                    "uid": "13145dd1-4629-4594-b5a8-1b6c37e248b7", 
-                    "visible": false
+                    "uid": "13145dd1-4629-4594-b5a8-1b6c37e248b7"
                 }, 
                 {
                     "children": [], 
@@ -1372,8 +1341,7 @@
                         ]
                     }, 
                     "type": 4, 
-                    "uid": "0ad0097f-dc9e-421d-99b7-dcc6bed644a1", 
-                    "visible": false
+                    "uid": "0ad0097f-dc9e-421d-99b7-dcc6bed644a1"
                 }, 
                 {
                     "adapter_option": [
@@ -1424,8 +1392,7 @@
                         ]
                     }, 
                     "type": 5, 
-                    "uid": "053681cc-d78b-4647-93bb-619f44e53d2e", 
-                    "visible": false
+                    "uid": "053681cc-d78b-4647-93bb-619f44e53d2e"
                 }, 
                 {
                     "alignment": {
@@ -1471,8 +1438,7 @@
                         ]
                     }, 
                     "type": 3, 
-                    "uid": "c3532209-6b53-4d10-ad1d-a2d9912ede1a", 
-                    "visible": false
+                    "uid": "c3532209-6b53-4d10-ad1d-a2d9912ede1a"
                 }, 
                 {
                     "children": [], 
@@ -1515,8 +1481,7 @@
                         ]
                     }, 
                     "type": 3, 
-                    "uid": "af2f8b42-2c70-48a6-b6da-6e367f61554f", 
-                    "visible": false
+                    "uid": "af2f8b42-2c70-48a6-b6da-6e367f61554f"
                 }, 
                 {
                     "adapter_option": [
@@ -1569,8 +1534,7 @@
                         ]
                     }, 
                     "type": 3, 
-                    "uid": "40811a96-6849-42fa-b442-cb2672f78468", 
-                    "visible": false
+                    "uid": "40811a96-6849-42fa-b442-cb2672f78468"
                 }, 
                 {
                     "adapter_option": [
@@ -1623,8 +1587,7 @@
                         ]
                     }, 
                     "type": 3, 
-                    "uid": "cd0decd3-d89e-461f-a2df-b1a873469b76", 
-                    "visible": false
+                    "uid": "cd0decd3-d89e-461f-a2df-b1a873469b76"
                 }, 
                 {
                     "adapter_option": [
@@ -1666,8 +1629,7 @@
                         ]
                     }, 
                     "type": 4, 
-                    "uid": "5b70dfa7-c8a4-4e91-864b-f2b1c55d4989", 
-                    "visible": false
+                    "uid": "5b70dfa7-c8a4-4e91-864b-f2b1c55d4989"
                 }, 
                 {
                     "adapter_option": [
@@ -1709,8 +1671,7 @@
                         ]
                     }, 
                     "type": 4, 
-                    "uid": "7bd197d6-76f9-43ca-aad9-c3ab293d356b", 
-                    "visible": false
+                    "uid": "7bd197d6-76f9-43ca-aad9-c3ab293d356b"
                 }
             ], 
             "comp_anims": [], 
@@ -1745,8 +1706,7 @@
             "slot_id": 4, 
             "swallow_touches": true, 
             "type": 17, 
-            "uid": "42c2c2a5-0522-477a-b856-72b2b3e7b6b8", 
-            "visible": false
+            "uid": "42c2c2a5-0522-477a-b856-72b2b3e7b6b8"
         }
     ], 
     "editor_visible": false, 

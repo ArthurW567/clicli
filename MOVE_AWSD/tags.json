@@ -1,11 +1,9 @@
 {
     "ability_all": [], 
     "editor_decoration": [], 
-    "editor_destructible": [], 
     "editor_item": [], 
     "editor_unit": [
         "warrior"
     ], 
-    "modifier_all": [], 
     "projectile_all": []
 }
