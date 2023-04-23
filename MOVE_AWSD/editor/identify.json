@@ -1287,10 +1287,14 @@
   "shop_tips": 1755660351, 
   "scroll_view_10": 1664813416, 
   "ExitGame": 1153700462, 
+<<<<<<< HEAD
   "health": 1312111692, 
   "skill_btn_16": 1267548849, 
   "button_12": 1236253591, 
   "SkillPanel": 1074794450
+=======
+  "health": 1312111692
+>>>>>>> parent of 97626ec (MAP_03)
  }, 
  "tv1": {
   "BoolKey": 1164230564, 
