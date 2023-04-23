@@ -187,7 +187,7 @@
                     {
                         "arg_type": 100006, 
                         "args_list": [
-                            7
+                            1
                         ], 
                         "sub_type": 1
                     }
@@ -311,7 +311,7 @@
                                             {
                                                 "arg_type": 100006, 
                                                 "args_list": [
-                                                    7
+                                                    1
                                                 ], 
                                                 "sub_type": 1
                                             }
@@ -396,7 +396,7 @@
                                     {
                                         "arg_type": 100006, 
                                         "args_list": [
-                                            7
+                                            1
                                         ], 
                                         "sub_type": 1
                                     }
@@ -421,7 +421,7 @@
                     {
                         "arg_type": 100006, 
                         "args_list": [
-                            7
+                            1
                         ], 
                         "sub_type": 1
                     }, 

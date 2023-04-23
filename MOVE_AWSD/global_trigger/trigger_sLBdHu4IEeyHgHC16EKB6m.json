@@ -658,27 +658,6 @@
                                         false, 
                                         true
                                     ]
-                                }, 
-                                {
-                                    "action_type": "SET_UI_COMP_BIND_ATTR", 
-                                    "args_list": [
-                                        {
-                                            "arg_type": 100025, 
-                                            "args_list": [
-                                                1
-                                            ], 
-                                            "sub_type": 1
-                                        }
-                                    ], 
-                                    "bp": false, 
-                                    "element_id": 1596440589000052, 
-                                    "enable": true, 
-                                    "op_arg": [
-                                        null
-                                    ], 
-                                    "op_arg_enable": [
-                                        false
-                                    ]
                                 }
                             ], 
                             "sub_type": 1
@@ -712,7 +691,7 @@
             "script": "", 
             "trigger_id": 1596440589, 
             "trigger_name": "\u83b7\u5f97\u6280\u80fd", 
-            "valid": false
+            "valid": true
         }
     }, 
     "trigger_group_info": {

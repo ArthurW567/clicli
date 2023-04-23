@@ -4,8 +4,7 @@
             "camp_name": "$faction 1", 
             "least_num": 0, 
             "roles": [
-                1, 
-                2
+                1
             ], 
             "share_vision": true
         }, 
@@ -26,12 +25,6 @@
             "role_color": "#FF0000", 
             "role_name": "$player 1", 
             "role_type": 1
-        }, 
-        "2": {
-            "camp_id": 1, 
-            "role_color": "#0000FF", 
-            "role_name": "$player 2", 
-            "role_type": 2
         }, 
         "31": {
             "camp_id": 9999, 

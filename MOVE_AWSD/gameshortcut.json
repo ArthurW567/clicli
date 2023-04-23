@@ -74,7 +74,7 @@
     "dest_common_atk_cmd": {
         "__tuple__": true, 
         "items": [
-            true, 
+            false, 
             [
                 "RIGHT_MOUSE_DEST_CA"
             ]
@@ -83,7 +83,7 @@
     "dest_pick_up": {
         "__tuple__": true, 
         "items": [
-            true, 
+            false, 
             [
                 "RIGHT_MOUSE_DEST_PICK"
             ]
@@ -110,7 +110,7 @@
     "item_pick_up": {
         "__tuple__": true, 
         "items": [
-            true, 
+            false, 
             [
                 "RIGHT_MOUSE_ITEM_PICK"
             ]
@@ -227,7 +227,7 @@
     "unit_follow_target": {
         "__tuple__": true, 
         "items": [
-            true, 
+            false, 
             [
                 "RIGHT_MOUSE_FOLLOW_TARGET"
             ]
